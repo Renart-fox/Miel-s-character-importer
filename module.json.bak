@@ -34,5 +34,8 @@
   ],
   "scripts": [
 	"scripts/miels-character-importer.js"
+  ],
+  "esmodules": [
+	"scripts/vampire_enum.js"
   ]
 }
