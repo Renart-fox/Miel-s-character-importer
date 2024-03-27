@@ -205,6 +205,7 @@ const importVtm5e = async (data) => {
       "headers": {
         "predator": cgObj.predation,
         "sire": cgObj.sire,
+        "domitor": cgObj.sire,
         "generation": cgObj.generation
       },
       "health": {
@@ -262,20 +263,21 @@ const importVtm5e = async (data) => {
     }
   });
 
-  for (var discipline of cgObj.disciplines) {
-    let discName = vEnum.Disciplines[discipline.id].name;
-    for (var power of discipline.powers) {
-      if (power != "") {
-        var itemData = {
-          name: power,
-          type: "power",
-          img: "/systems/vtm5e/assets/icons/items/discipline.png",
-          system: { discipline: discName }
+  const pack = game.packs.get('miels-character-importer.disciplines');
+  await pack.getIndex().then(async () => {
+    for (var discipline of cgObj.disciplines) {
+      let discName = vEnum.Disciplines[discipline.id].name;
+      for (var power of discipline.powers) {
+        let itemSearch = pack.index.find(e => e.name === power);
+        if (itemSearch != undefined) {
+          let itemId = itemSearch._id;
+          await pack.getDocument(itemId).then(async (item) => {
+            await Item.createDocuments([item], { parent: actor });
+          })
         }
-        await Item.createDocuments([itemData], { parent: actor });
       }
     }
-  }
+  });
 
 }
 
@@ -333,7 +335,7 @@ const importCharacterPopup = () => {
       two: {
         icon: '<i class="fas fa-check"></i>',
         label: "Import !",
-        callback: () => { stayOpen = true; importCharacter(files); }
+        callback: () => { importCharacter(files); }
       }
     },
     default: "two",
