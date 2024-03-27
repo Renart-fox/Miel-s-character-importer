@@ -25,6 +25,17 @@
       }
     ]
   },
+  "packs": [
+        {
+            "name": "disciplines",
+            "label": "Disciplines",
+            "type": "Item",
+            "system": "vtm5e",
+            "path": "packs/disciplines.db",
+            "entity": "Item",
+            "module": "miels-character-importer"
+        }
+    ],
   "description": "Allows to import characters to D&amp;D 5e, Vampire 5e and Cyberpunk RED created with my generator into foundry.",
   "authors": [
     {
