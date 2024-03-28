@@ -41,7 +41,11 @@
     {
       "name": "Miel",
       "flags": {}
-    }
+    },
+	{
+		"name": "Fintheas",
+		"flags" {}
+	}
   ],
   "scripts": [
 	"scripts/miels-character-importer.js"
