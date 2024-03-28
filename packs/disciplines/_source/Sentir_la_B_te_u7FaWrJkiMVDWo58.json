@@ -1,0 +1,38 @@
+{
+  "name": "Sentir la Bête",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "u7FaWrJkiMVDWo58",
+  "system": {
+    "description": "<p>Permet de discerner la B&ecirc;te, sa nature, sa faim et son hostilit&eacute;, que ce soit chez les mortels ou autres cr&eacute;atures surnaturelles.<br><br><strong>Jet :</strong> R&eacute;solution + Animalisme contre Sang-froid + Subterfuge<br><strong>Co&ucirc;t : </strong>Gratuit.<br><strong>Syst&egrave;me : </strong>En cas de r&eacute;ussite, d&eacute;termine si la cible est un vampire ou un loup-garou ainsi que le degr&eacute; d&rsquo;agressivit&eacute; de la cible. En cas de victoire critique, le vampire d&eacute;termine pr&eacute;cis&eacute;ment le type de cr&eacute;ature ainsi que sa Soif ou sa Rage. Ce pouvoir s&rsquo;utilise de mani&egrave;re passif, pr&eacute;venant l&rsquo;utilisateur des intentions hostiles de son entourage.<br><strong>Dur&eacute;e :</strong> Passif.</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 1,
+    "dice1": "discipline",
+    "dice2": "resolve",
+    "cost": "",
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 100049,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711573949749,
+    "modifiedTime": 1711574563445,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!u7FaWrJkiMVDWo58"
+}

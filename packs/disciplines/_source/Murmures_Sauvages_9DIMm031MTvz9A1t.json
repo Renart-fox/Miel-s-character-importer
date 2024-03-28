@@ -1,0 +1,38 @@
+{
+  "name": "Murmures Sauvages",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "9DIMm031MTvz9A1t",
+  "system": {
+    "description": "<p>Permet d&rsquo;&eacute;tablir un dialogue avec des animaux, ainsi que d&rsquo;invoquer une esp&egrave;ce cible. Ils ne sont pas pour autant manipul&eacute;s et n&rsquo;iront pas &agrave; l&rsquo;encontre de leurs int&eacute;r&ecirc;ts propres.<br><br><strong>Jet :</strong> Manipulation/Charisme + Animalisme<br><strong>Co&ucirc;t :</strong> Un test d&rsquo;Exaltation pour convoquer un type d&rsquo;animal. Dialogue gratuit. Gratuit sur le famulus.<br><strong>Syst&egrave;me :</strong> Le dialogue ne n&eacute;cessite pas de jet, sauf en cas de persuasion, Manipulation + Animalisme contre une difficult&eacute; variable. Convoquer un type d&rsquo;animal demande un jet de Charisme + Animalisme, la difficult&eacute; d&eacute;pend de la raret&eacute; de l&rsquo;esp&egrave;ce. La marge d&eacute;termine le<br>nombre d&rsquo;animaux convoqu&eacute;. Une victoire critique convoque la majorit&eacute; des animaux du voisinage.<br><strong>Dur&eacute;e : </strong>Une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 2,
+    "dice1": "discipline",
+    "dice2": "manipulation",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711574034706,
+    "modifiedTime": 1711574561895,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!9DIMm031MTvz9A1t"
+}

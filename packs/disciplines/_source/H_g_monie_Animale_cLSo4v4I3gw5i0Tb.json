@@ -1,0 +1,38 @@
+{
+  "name": "Hégémonie Animale",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "cLSo4v4I3gw5i0Tb",
+  "system": {
+    "description": "<p>Le vampire est capable de manipuler des troupeaux entiers d&rsquo;animaux.<br><br><strong>Jet :</strong> Charisme + Animalisme.<br><strong>Co&ucirc;t : </strong>Deux tests d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong> Le vampire choisit un type de cr&eacute;ature qui doit &ecirc;tre pr&eacute;sente et donne un ordre ; la difficult&eacute; est variable.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne ou jusqu&rsquo;&agrave; fin de l&rsquo;ordre (le plus court des deux).</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 5,
+    "dice1": "discipline",
+    "dice2": "charisma",
+    "cost": 2,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711574437461,
+    "modifiedTime": 1711574558821,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!cLSo4v4I3gw5i0Tb"
+}

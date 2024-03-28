@@ -1,0 +1,38 @@
+{
+  "name": "Festin Animal",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "7dX0Le6t46GnDty5",
+  "system": {
+    "description": "<p>Le vampire &eacute;tanche efficacement sa Soif avec du sang animal. Son famulus sera bien plus nourrissant qu&rsquo;un autre animal similaire et absorbera son trait de caract&egrave;re principal.<br><br><strong>Co&ucirc;t :</strong> Gratuit.<br><strong>Syst&egrave;me :</strong> La Soif diminue de 1 point suppl&eacute;mentaire en se nourrissant d&rsquo;un animal. La Puissance de Sang est consid&eacute;r&eacute;e comme &eacute;tant de 2 niveaux inf&eacute;rieurs par rapport aux p&eacute;nalit&eacute;s li&eacute;es &agrave; cette source d&rsquo;alimentation. Vider de son sang son famulus r&eacute;duit la Soif de 4 points (ne r&eacute;duit jamais &agrave; 0 la Soif). De plus, gagne 2 d&eacute;s dans les Jet li&eacute;s &agrave; l&rsquo;attribut principal de l&rsquo;animal, jusqu&rsquo;au prochain repas ou &agrave; Soif 5.<br><strong>Dur&eacute;e : </strong>Passif.</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 3,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711574135822,
+    "modifiedTime": 1711574558275,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!7dX0Le6t46GnDty5"
+}
