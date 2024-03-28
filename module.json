@@ -49,5 +49,6 @@
   ],
   "scripts": [
 	"scripts/miels-character-importer.js"
-  ]
+  ],
+  "download": "https://github.com/Renart-fox/Miel-s-character-importer/releases/download/1.0.0/Miel-s-character-importer-master.zip"
 }
