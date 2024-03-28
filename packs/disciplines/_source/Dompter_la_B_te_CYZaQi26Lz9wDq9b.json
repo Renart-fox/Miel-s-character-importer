@@ -1,0 +1,38 @@
+{
+  "name": "Dompter la Bête",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "CYZaQi26Lz9wDq9b",
+  "system": {
+    "description": "<p>Plongeant son regard dans celui de la cible, le vampire calme la B&ecirc;te. Un mortel devient apathique, ne r&eacute;agissant que par r&eacute;flexe de survie, chez un Descendant ses pulsions bestiales se tairont un instant.<br><br><strong>Jet :</strong> Charisme + Animalisme contre Vigueur + R&eacute;solution.<br><strong>Co&ucirc;t : </strong>un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me : </strong>Face &agrave; un mortel, il sombre en l&eacute;thargie, ne r&eacute;agissant que pour survivre, mais pas tenter activement d&rsquo;action. Contre un vampire, il ne peut plus utiliser de Coup de Sang, ni &ecirc;tre victime de Triomphe Brutal ou d&rsquo;&Eacute;chec Bestial. Une victoire critique met imm&eacute;diatement fin &agrave; la fr&eacute;n&eacute;sie.<br><strong>Dur&eacute;e :</strong> une sc&egrave;ne ou marges + 1 tours.</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 3,
+    "dice1": "discipline",
+    "dice2": "charisma",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711574090111,
+    "modifiedTime": 1711574556784,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!CYZaQi26Lz9wDq9b"
+}

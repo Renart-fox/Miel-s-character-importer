@@ -1,0 +1,38 @@
+{
+  "name": "Lier le famulus",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "3tJMPjgarmcPTlOL",
+  "system": {
+    "description": "<p>Le vampire peut cr&eacute;er un famulus en le liant au sang. Il &eacute;tablit ainsi un lien mental, pouvant utiliser par ce biais d&rsquo;autres pouvoirs d&rsquo;Animalisme ou de lui donner des ordres. Le famulus attaque pour se d&eacute;fendre et/ou d&eacute;fendre son ma&icirc;tre. Il ne combattra pas quelque chose qu&rsquo;il n&rsquo;attaquerait pas en temps normal.<br><br><strong>Co&ucirc;t :</strong> Nourrir de sa vitae l&rsquo;animal pendant 3 nuits de suite, demandant &agrave; chaque fois un test d&rsquo;exaltation. Par la suite, l&rsquo;entretien du lien de sang demande une quantit&eacute; de sang n&eacute;gligeable.<br><strong>Syst&egrave;me :</strong> Donner un ordre requiert Charisme + Animaux (difficult&eacute; 2, ou selon complexit&eacute;), &agrave; moins d&rsquo;utiliser Murmures Sauvages. Un vampire ne peut avoir qu&rsquo;un seul famulus &agrave; la fois. Murmures Sauvages et Soumission de l&rsquo;esprit sont gratuits sur le famulus.<br><strong>Dur&eacute;e :</strong> Seule la mort lib&egrave;re le famulus. Tant qu&rsquo;il re&ccedil;oit du sang, le famulus ne vieillit pas.</p>",
+    "bonuses": [],
+    "discipline": "animalism",
+    "duration": "",
+    "level": 1,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "folder": "pZku52Y29kBpiGLt",
+  "sort": 101563,
+  "ownership": {
+    "default": 0,
+    "Ws85i9GATiQ6bF6s": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711573913872,
+    "modifiedTime": 1711574875491,
+    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+  },
+  "_key": "!items!3tJMPjgarmcPTlOL"
+}
