@@ -1,0 +1,38 @@
+{
+  "folder": "k0wWIwFsRM6Ly6Mr",
+  "name": "Manipulation des Masses",
+  "type": "power",
+  "img": "Vampire/Icones/domination.png",
+  "_id": "h7KZgiG8NXEOefC6",
+  "system": {
+    "description": "<p>Le vampire a maintenant le pouvoir de contr&ocirc;ler des groupes.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation en plus du co&ucirc;t normal.<br><strong>Syst&egrave;me :</strong>&nbsp;Toutes les victimes doivent voir les yeux du vampire. C&rsquo;est le plus haut groupement qui fait le jet d&rsquo;opposition.<br><strong>Dur&eacute;e :</strong> Selon le pouvoir.</p>",
+    "bonuses": [],
+    "discipline": "dominate",
+    "duration": "",
+    "level": 5,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711876739488,
+    "modifiedTime": 1711876842497,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!h7KZgiG8NXEOefC6"
+}

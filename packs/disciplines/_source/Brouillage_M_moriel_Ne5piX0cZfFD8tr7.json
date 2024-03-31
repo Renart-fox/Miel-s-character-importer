@@ -1,0 +1,38 @@
+{
+  "folder": "q6ZbvFW82MyUxy0v",
+  "name": "Brouillage Mémoriel",
+  "type": "power",
+  "img": "Vampire/Icones/domination.png",
+  "_id": "Ne5piX0cZfFD8tr7",
+  "system": {
+    "description": "<p>En disant &laquo; Oublie ! &raquo; la victime a un v&eacute;ritable trou de m&eacute;moire de l&rsquo;instant pr&eacute;sent et les quelques minutes pr&eacute;c&eacute;dentes.<br><br><strong>Jet :&nbsp;</strong>Charisme + Domination contre Astuce + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :&nbsp;</strong>Seul un mortel pr&eacute;par&eacute; &agrave; r&eacute;sister ou un vampire effectue le jet en opposition.<br><strong>Dur&eacute;e :</strong> Permanent.</p>",
+    "bonuses": [],
+    "discipline": "dominate",
+    "duration": "",
+    "level": 1,
+    "dice1": "charisma",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711876282163,
+    "modifiedTime": 1711876772481,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!Ne5piX0cZfFD8tr7"
+}

@@ -1,0 +1,38 @@
+{
+  "folder": "12pkNywGbvIjIUOX",
+  "name": "Hypnose",
+  "type": "power",
+  "img": "Vampire/Icones/domination.png",
+  "_id": "eGpioJuoxG0WrS9Z",
+  "system": {
+    "description": "<p>Permet de donner des consignes complexes &agrave; la cible, dans un environnement calme, en soutenant son regard. La cible doit &ecirc;tre capable de mener sa mission sans d&eacute;lai et ne peut pas contenir de condition (pas de &laquo; si &raquo;).<br><br><strong>Jet :&nbsp;</strong>Manipulation + domination contre Intelligence + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Seul un mortel pr&eacute;par&eacute; &agrave; r&eacute;sister ou un vampire effectue le jet en opposition. Le jet est obligatoire si l&rsquo;ordre va &agrave; l&rsquo;encontre de la nature profonde de la victime.<br><strong>Dur&eacute;e :&nbsp;</strong>jusqu&rsquo;&agrave; l&rsquo;accomplissement de l&rsquo;ordre ou la fin de la sc&egrave;ne (la plus courte des deux).</p>",
+    "bonuses": [],
+    "discipline": "dominate",
+    "duration": "",
+    "level": 2,
+    "dice1": "manipulation",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711876432481,
+    "modifiedTime": 1711876799735,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!eGpioJuoxG0WrS9Z"
+}

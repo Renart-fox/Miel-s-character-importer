@@ -1,0 +1,38 @@
+{
+  "folder": "k0wWIwFsRM6Ly6Mr",
+  "name": "Décret Ultime",
+  "type": "power",
+  "img": "Vampire/Icones/domination.png",
+  "_id": "tcPmXUXdIDI3bfZc",
+  "system": {
+    "description": "<p>L&rsquo;instinct de survie de la cible n&rsquo;est plus un obstacle.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Pas de co&ucirc;t suppl&eacute;mentaire, hormis probablement des Fl&eacute;trissures.<br><strong>Syst&egrave;me :</strong>&nbsp;Les victime qui &eacute;chouent le jet demand&eacute; peuvent alors aller jusqu&rsquo;au suicide.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",
+    "bonuses": [],
+    "discipline": "dominate",
+    "duration": "",
+    "level": 5,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711876723939,
+    "modifiedTime": 1711876833645,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!tcPmXUXdIDI3bfZc"
+}
