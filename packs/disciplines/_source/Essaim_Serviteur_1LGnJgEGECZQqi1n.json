@@ -1,7 +1,7 @@
 {
   "name": "Essaim Serviteur",
   "type": "power",
-  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "img": "Vampire/Icones/animalisme.png",
   "_id": "1LGnJgEGECZQqi1n",
   "system": {
     "description": "<p><strong>Pouvoir Amalgam&eacute; :</strong> Occultation 2.<br>La port&eacute;e des pouvoirs du vampire s&rsquo;&eacute;tend aux nu&eacute;es d&rsquo;insectes (mouches, cafards&hellip;). Une telle nu&eacute;e peut &ecirc;tre un famulus.<br><br><strong>Co&ucirc;t :</strong> Pas de co&ucirc;t suppl&eacute;mentaire.<br><strong>Syst&egrave;me :</strong> Une nu&eacute;e est consid&eacute;r&eacute;e comme une seule entit&eacute;. Si une telle nu&eacute;e est le famulus, elle peut se cacher dans les pores de la peau du vampire, d&eacute;tectables seulement aux RX. Sa sant&eacute; est de 5,<br>attaque avec 3 d&eacute;s, fait -1 d&eacute;g&acirc;t, 8 d&eacute;s pour se d&eacute;fendre. Seuls le feu et les insecticides font des d&eacute;g&acirc;ts aggrav&eacute;s.<br><strong>Dur&eacute;e : </strong>Passif.</p>",
@@ -19,8 +19,8 @@
     "macroid": ""
   },
   "effects": [],
-  "folder": "pZku52Y29kBpiGLt",
-  "sort": 200000,
+  "folder": "TyN3gbypBMixdHIV",
+  "sort": 300000,
   "ownership": {
     "default": 0,
     "Ws85i9GATiQ6bF6s": 3
@@ -31,8 +31,8 @@
     "systemVersion": "4.0.1",
     "coreVersion": "11.315",
     "createdTime": 1711574153931,
-    "modifiedTime": 1711574557676,
-    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+    "modifiedTime": 1711875032322,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
   },
   "_key": "!items!1LGnJgEGECZQqi1n"
 }

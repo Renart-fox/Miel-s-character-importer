@@ -1,7 +1,7 @@
 {
   "name": "Influencer la Bête",
   "type": "power",
-  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "img": "Vampire/Icones/animalisme.png",
   "_id": "KUUAAIicv3M7uUzG",
   "system": {
     "description": "<p>Le vampire exerce une influence subtile sur la B&ecirc;te de tous les autres Descendants pr&eacute;sents et peut exciter ou apaiser leurs instincts vampiriques. En chantant, fredonnant ou en grognant doucement, l&rsquo;utilisateur tiraille les pulsions de toutes les B&ecirc;tes et les esprits s&rsquo;&eacute;chauffent ou se calment au gr&eacute; de ses caprices.<br><br><strong>Co&ucirc;t : </strong>Un test d&rsquo;Exaltation<br><strong>Jet : </strong>Manipulation + Animalisme (difficult&eacute; 3)<br><strong>Syst&egrave;me : </strong>Le vampire d&eacute;cide s&rsquo;il veut agiter ou calmer puis fredonne une m&eacute;lodie sans parole ou &eacute;met un autre son du m&ecirc;me type. Chaque marge augmente ou r&eacute;duit de 1 la difficult&eacute; pour r&eacute;sister &agrave; la fr&eacute;n&eacute;sie pour tous les vampires entendant la clameur. Dans le cas o&ugrave; les B&ecirc;tes se calment pendant une fr&eacute;n&eacute;sie, les Descendants concern&eacute;s ont le droit de faire un nouveau jet pour r&eacute;sister &agrave; la fr&eacute;n&eacute;sie, en sortant sur une r&eacute;ussite.<br><strong>Dur&eacute;e : </strong>Tant que l&rsquo;utilisateur continue de fredonner.</p>",
@@ -19,8 +19,8 @@
     "macroid": ""
   },
   "effects": [],
-  "folder": "pZku52Y29kBpiGLt",
-  "sort": 112500,
+  "folder": "NJuki2sOEIEwjpUW",
+  "sort": 200000,
   "ownership": {
     "default": 0,
     "Ws85i9GATiQ6bF6s": 3
@@ -31,8 +31,8 @@
     "systemVersion": "4.0.1",
     "coreVersion": "11.315",
     "createdTime": 1711574470345,
-    "modifiedTime": 1711574559333,
-    "lastModifiedBy": "Ws85i9GATiQ6bF6s"
+    "modifiedTime": 1711875062553,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
   },
   "_key": "!items!KUUAAIicv3M7uUzG"
 }

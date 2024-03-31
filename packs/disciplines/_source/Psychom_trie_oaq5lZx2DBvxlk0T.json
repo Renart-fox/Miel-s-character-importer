@@ -1,0 +1,38 @@
+{
+  "folder": "eaB5WTxOClsrb8NI",
+  "name": "Psychométrie",
+  "type": "power",
+  "img": "Vampire/Icones/auspex.png",
+  "_id": "oaq5lZx2DBvxlk0T",
+  "system": {
+    "description": "<p>Permet d&rsquo;avoir des r&eacute;sidus d&rsquo;&eacute;motions d&rsquo;un objet ou d&rsquo;un lieu manipul&eacute; ou visit&eacute; par quelqu&rsquo;un. Permet d&rsquo;avoir des visions floues de ce qu&rsquo;il s&rsquo;y est pass&eacute;.<br><br><strong>Jet :&nbsp;</strong>Intelligence + Auspex.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>La difficult&eacute; varie en fonction de l&rsquo;information recherch&eacute;e et sa date. Chaque marge donne une information suppl&eacute;mentaire, du plus r&eacute;cent au plus vieux.<br><strong>Dur&eacute;e :</strong> Un tour.</p>",
+    "bonuses": [],
+    "discipline": "auspex",
+    "duration": "",
+    "level": 4,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711874416095,
+    "modifiedTime": 1711874981587,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!oaq5lZx2DBvxlk0T"
+}

@@ -1,0 +1,38 @@
+{
+  "folder": "JaBAHuo87YnETmpn",
+  "name": "Panacée",
+  "type": "power",
+  "img": "Vampire/Icones/auspex.png",
+  "_id": "SuC6fMW46P3GPUdR",
+  "system": {
+    "description": "<p><strong>Pouvoir amalgam&eacute; :</strong>&nbsp;Force d&rsquo;&Acirc;me 1.<br>Le vampire apaise le tourment mental ou &eacute;motionnel de la cible.<br><br><strong>Jet :</strong>&nbsp;Sang-froid + Auspex (difficult&eacute; 2).<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation, points de Volont&eacute;s &eacute;ventuels.<br><strong>Syst&egrave;me :</strong>&nbsp;Gu&eacute;rit un nombre de d&eacute;g&acirc;ts superficiels de Volont&eacute; &eacute;gal &agrave; la marge ou 1 d&eacute;g&acirc;t aggrav&eacute; de Volont&eacute; par tranche de 3 marges. Sur un mortel ou un vampire, Ob&eacute;ah permet de mettre &agrave; l&rsquo;aise et de calmer en g&eacute;n&eacute;ral. Utiliser ce pouvoir prend un tour, ou une sc&egrave;ne, r&eacute;duisant ainsi la difficult&eacute; &agrave; 0. Ne peut &ecirc;tre utilis&eacute; sur soi-m&ecirc;me, qu&rsquo;une fois par nuit par cible. Pour chaque cible au-del&agrave; de la premi&egrave;re par nuit, l&rsquo;utilisateur subit<br>autant de d&eacute;g&acirc;ts superficiels de Volont&eacute; que la moiti&eacute; de sa marge de r&eacute;ussite.<br><strong>Dur&eacute;e :</strong> non applicable.</p>",
+    "bonuses": [],
+    "discipline": "auspex",
+    "duration": "",
+    "level": 2,
+    "dice1": "composure",
+    "dice2": "animalism",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": true,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711874173510,
+    "modifiedTime": 1711874943563,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!SuC6fMW46P3GPUdR"
+}
