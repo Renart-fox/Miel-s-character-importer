@@ -1,0 +1,38 @@
+{
+  "folder": "tAbhzE1I4NQSqmSM",
+  "name": "Mirage de Vitesse",
+  "type": "power",
+  "img": "Vampire/Icones/celerite.png",
+  "_id": "VTsGRNspFG2aZfce",
+  "system": {
+    "description": "<p>Les mouvements du vampire acc&eacute;l&egrave;rent au point qu&rsquo;il n&rsquo;est plus qu&rsquo;une image floue et tremblante, c&rsquo;est pourquoi il devient extr&ecirc;mement difficile de la toucher avec une attaque m&ecirc;me quand il n&rsquo;a pas conscience de la pr&eacute;sence de l&rsquo;adversaire ou quand il ne se d&eacute;fend pas activement.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation par tour<br><strong>Syst&egrave;me :&nbsp;</strong>Les attaques qui obtiennent un nombre de r&eacute;ussites inf&eacute;rieures au score de C&eacute;l&eacute;rit&eacute; de l&rsquo;utilisateur &eacute;chouent automatiquement. Ce pouvoir fonctionne m&ecirc;me en cas d&rsquo;attaque surprise ou dans le cadre d&rsquo;attaque interdisant les jets de d&eacute;fense.<br><strong>Dur&eacute;e :&nbsp;</strong>Tant que l&rsquo;utilisateur maintient le pouvoir.</p>",
+    "bonuses": [],
+    "discipline": "celerity",
+    "duration": "",
+    "level": 4,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711875957356,
+    "modifiedTime": 1711876156008,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!VTsGRNspFG2aZfce"
+}

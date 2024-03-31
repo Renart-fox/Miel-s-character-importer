@@ -1,0 +1,38 @@
+{
+  "folder": "SLEyO3ZjIiqoGxsx",
+  "name": "Travail Express",
+  "type": "power",
+  "img": "Vampire/Icones/celerite.png",
+  "_id": "TuaQxULDcS82ul6t",
+  "system": {
+    "description": "<p>Le vampire peut accomplir des t&acirc;ches normalement longues &agrave; une vitesse &eacute;poustouflante. Ses doigts et ses mains ne sont plus que des formes floues tandis qu&rsquo;il &eacute;crit, r&eacute;pare ou construit quelque chose en un temps record. A cause de la concentration requise, il ne peut pas utiliser cette vitesse pour attaquer, mais elle lui permet de r&eacute;aliser n&rsquo;importe quelle t&acirc;che non violente plus vite m&ecirc;me sous la pression, voire en &eacute;tant attaqu&eacute;.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Syst&egrave;me :&nbsp;</strong>Tant qu&rsquo;il est actif, ce pouvoir permet au vampire de terminer des t&acirc;ches li&eacute;es &agrave; une comp&eacute;tence qui prendrait normalement un ou plusieurs tours en l&rsquo;espace de quelques secondes, et il peut ainsi consid&eacute;rer une action compl&egrave;te comme une action mineure. Ce pouvoir ne peut &ecirc;tre utilis&eacute; ni pour acc&eacute;l&eacute;rer les attaques et d&eacute;fenses ni pour accomplir toute autre t&acirc;che &agrave; laquelle quelqu&rsquo;un s&rsquo;oppose activement, mais il permet par exemple au vampire de forcer une serrure et de tirer avec un pistolet, cette derni&egrave;re action perdant 2 d&eacute;s conform&eacute;ment &agrave; la r&egrave;gle des actions mineures.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne</p>",
+    "bonuses": [],
+    "discipline": "celerity",
+    "duration": "",
+    "level": 2,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": null,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711875459986,
+    "modifiedTime": 1711876126517,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!TuaQxULDcS82ul6t"
+}
