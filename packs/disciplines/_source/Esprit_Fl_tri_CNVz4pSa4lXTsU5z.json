@@ -1,0 +1,38 @@
+{
+  "folder": "MapEtZJDzaq0IaIZ",
+  "name": "Esprit Flétri",
+  "type": "power",
+  "img": "Vampire/Icones/obtenebration.png",
+  "_id": "CNVz4pSa4lXTsU5z",
+  "system": {
+    "description": "<p>Permet de briser l&rsquo;esprit de la cible, fusse-t-elle mortelle ou non. Peut infliger des Fl&eacute;trissures.<br><br><strong>Jet :&nbsp;</strong>R&eacute;solution + N&eacute;ant contre R&eacute;solution + Occultisme/Force d&rsquo;&Acirc;me.<br><strong>Co&ucirc;t :&nbsp;</strong>Deux test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Impr&egrave;gne ses mains de sa vitae avant de toucher la victime. Celle-ci subit 2 d&eacute;g&acirc;ts aggrav&eacute; de Volont&eacute; par marge. Si tu&eacute;e en &eacute;tant affaiblie par ce pouvoir, la victime ne reviendra pas en tant que spectre.<br><strong>Dur&eacute;e :&nbsp;</strong>Un tour.</p>",
+    "bonuses": [],
+    "discipline": "oblivion",
+    "duration": "",
+    "level": 5,
+    "dice1": "resolve",
+    "dice2": "discipline",
+    "cost": 2,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711959238295,
+    "modifiedTime": 1711959878959,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!CNVz4pSa4lXTsU5z"
+}

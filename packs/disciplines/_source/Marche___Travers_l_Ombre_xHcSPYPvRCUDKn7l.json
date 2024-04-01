@@ -1,0 +1,38 @@
+{
+  "folder": "MapEtZJDzaq0IaIZ",
+  "name": "Marche à Travers l'Ombre",
+  "type": "power",
+  "img": "Vampire/Icones/obtenebration.png",
+  "_id": "xHcSPYPvRCUDKn7l",
+  "system": {
+    "description": "<p>Le vampire dispara&icirc;t dans une ombre pour r&eacute;appara&icirc;tre depuis celle-ci ou une autre plus loin.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;ombre doit &ecirc;tre suffisamment grande pour l&rsquo;accueillir. Le vampire &eacute;merge alors un tour plus tard, depuis une ombre en ligne de vue. Il est possible d&rsquo;effectuer le pouvoir avec un passager, le saisissant s&rsquo;il lutte ; si l&rsquo;utilisateur a subi une Fl&eacute;trissure, le passager en subira une aussi.<br><strong>Dur&eacute;e :&nbsp;</strong>Un tour.</p>",
+    "bonuses": [],
+    "discipline": "oblivion",
+    "duration": "",
+    "level": 5,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711959304280,
+    "modifiedTime": 1711959883935,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!xHcSPYPvRCUDKn7l"
+}

@@ -1,0 +1,38 @@
+{
+  "folder": "4v5nHMrwD3y0dfTW",
+  "name": "Éveil du Serviteur Homuncule",
+  "type": "power",
+  "img": "Vampire/Icones/obtenebration.png",
+  "_id": "UiqRh2HMptvpdxZK",
+  "system": {
+    "description": "<p>Utilise pour cr&eacute;er des espions &agrave; partir de petites parties de corps humains (mains, cr&acirc;nes&hellip;) ou de petits animaux morts tels que des rats ou des renards.<br><br><strong>Pouvoir pr&eacute;requis :</strong>&nbsp;Faiblesse du Voile<br><strong>Ingr&eacute;dients :</strong>&nbsp;Le morceau de corps ou la carcasse de l&rsquo;animal, une lame pour le d&eacute;couper/tuer, une petite d&eacute;coction d&rsquo;urine, mati&egrave;re f&eacute;cale et de semence.<br><strong>Proc&eacute;d&eacute; :</strong>&nbsp;Tremper la lame dans la d&eacute;coction et trancher la partie du corps de son membre ou tuer l&rsquo;animal avec (celui-ci ne peut pas voler, m&ecirc;me s&rsquo;il a des ailes). L&rsquo;homonculus est cr&eacute;&eacute; apr&egrave;s l&rsquo;avoir enduit de la vitae. Il peut alors escalader les murs, sauter, se dissimuler et est parfaitement loyal envers son ma&icirc;tre. Il peut aussi communiquer des images, odeurs ou sons isol&eacute;s par t&eacute;l&eacute;pathie &agrave; son cr&eacute;ateur, au rythme d&rsquo;une information par sc&egrave;ne.<br><strong>Syst&egrave;me :</strong>&nbsp;L&rsquo;homonculus r&eacute;pond aux ordres de son ma&icirc;tre et peut le suivre, espionner pour son compte ou m&ecirc;me intimider. S&rsquo;il est &agrave; plus de 100 m&egrave;tres du vampire, il tombe inerte jusqu&rsquo;&agrave; ce qu&rsquo;il revienne &agrave; port&eacute;e. Sinon, il reste actif autant de nuits que le nombre de r&eacute;ussites. Une victoire critique garde le serviteur actif pour toujours, tandis qu&rsquo;un &eacute;chec critique d&eacute;truit tous les composants de la C&eacute;r&eacute;monie. Il prend des d&eacute;g&acirc;ts comme un vampire mais est immunis&eacute; au soleil, ne peut pas se soigner, et ne peut pas subir les effets d&rsquo;influence surnaturelle.</p>\n<figure class=\"wp-block-table\">\n<table>\n<tbody>\n<tr>\n<td><strong>Serviteur Homonculus</strong></td>\n</tr>\n<tr>\n<td><em>Groupements standards :&nbsp;</em>Physique 1, Social 0, Mental 1</td>\n</tr>\n<tr>\n<td><em>Attributs secondaires :&nbsp;</em>Sant&eacute; 3, Volont&eacute; 1</td>\n</tr>\n<tr>\n<td><em>Groupements exceptionnels :&nbsp;</em>Athl&eacute;tisme 4, Furtivit&eacute; 6, Intimidation 4</td>\n</tr>\n</tbody>\n</table>\n</figure>",
+    "bonuses": [],
+    "discipline": "ceremonies",
+    "duration": "",
+    "level": 2,
+    "dice1": "resolve",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711959495292,
+    "modifiedTime": 1711959767194,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!UiqRh2HMptvpdxZK"
+}

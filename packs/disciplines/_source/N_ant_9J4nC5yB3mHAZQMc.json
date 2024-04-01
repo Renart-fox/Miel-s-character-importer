@@ -1,0 +1,19 @@
+{
+  "name": "Néant",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "9J4nC5yB3mHAZQMc",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711958737591,
+    "modifiedTime": 1711958737591,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!folders!9J4nC5yB3mHAZQMc"
+}

@@ -1,0 +1,38 @@
+{
+  "folder": "MapEtZJDzaq0IaIZ",
+  "name": "Châtiment de Skuld",
+  "type": "power",
+  "img": "Vampire/Icones/obtenebration.png",
+  "_id": "HaNzwvk5GBCHdnZr",
+  "system": {
+    "description": "<p>Fait r&eacute;appara&icirc;tre d&rsquo;anciennes complications sur la victime, comme une maladie, une fracture ou le vieillissement chez une goule. Ne fonctionne pas sur un vampire.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Deux tests d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Vigueur + N&eacute;ant contre Vigueur + Vigueur/Force d&rsquo;&Acirc;me.<br><strong>Syst&egrave;me :</strong>&nbsp;Impr&egrave;gne ses mains et son visage de sa vitae en pensant au visage de ses cibles. La condition la plus grave que la cible ait connu survient alors soudain. Dans le cas d&rsquo;une goule, toute vitae dispara&icirc;t de son corps. Sur une victoire critique, le c&oelig;ur de la victime peut cesser de battre. Sur un &eacute;chec total, la cible est immunis&eacute;e contre ce pouvoir.<br><strong>Dur&eacute;e :</strong> Selon la condition.</p>",
+    "bonuses": [],
+    "discipline": "oblivion",
+    "duration": "",
+    "level": 5,
+    "dice1": "stamina",
+    "dice2": "discipline",
+    "cost": 2,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711959214833,
+    "modifiedTime": 1711959875665,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!HaNzwvk5GBCHdnZr"
+}

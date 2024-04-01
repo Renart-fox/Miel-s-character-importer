@@ -1,0 +1,38 @@
+{
+  "folder": "6w3csymfXcbhntOu",
+  "name": "Linceul Stygien",
+  "type": "power",
+  "img": "Vampire/Icones/obtenebration.png",
+  "_id": "L7mvAGslbeQz3ZU0",
+  "system": {
+    "description": "<p>Les ombres environnantes s&rsquo;&eacute;tendent, couvrant alors toutes les surfaces de la zone, dont les victimes pr&eacute;sentes, et &eacute;touffant les sons &agrave; l&rsquo;int&eacute;rieur. Ceux pr&eacute;sents dans l&rsquo;effet (sauf l&rsquo;utilisateur) ont du mal &agrave; voir et &agrave; entendre, tandis que les mortels sont drain&eacute;s de leur vitalit&eacute;.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>&Eacute;tendre les ombres prend 1 tour. Celles-ci vont sur les surfaces d&eacute;sir&eacute;es par l&rsquo;utilisateur, sur un rayon valant le double du score de N&eacute;ant du vampire, centr&eacute; sur lui-m&ecirc;me ou une ombre en ligne de vue. S&rsquo;ils ne peuvent voir dans l&rsquo;obscurit&eacute; surnaturelle, les victimes retirent 3 d&eacute;s de tous leurs groupements. Les mortels quant &agrave; eux subissent 1 d&eacute;g&acirc;t superficiel par tour, suffocant dans les t&eacute;n&egrave;bres de ce pouvoir.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "oblivion",
+    "duration": "",
+    "level": 4,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711959139592,
+    "modifiedTime": 1711959863857,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!L7mvAGslbeQz3ZU0"
+}
