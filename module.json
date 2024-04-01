@@ -47,8 +47,10 @@
 		"flags": {}
 	}
   ],
+  "media": [],
   "scripts": [
 	"scripts/miels-character-importer.js"
   ],
+  "manifest": "https://raw.githubusercontent.com/Renart-fox/Miel-s-character-importer/master/module.json",
   "download": "https://github.com/Renart-fox/Miel-s-character-importer/releases/download/1.0.0/Miel-s-character-importer-master.zip"
 }
