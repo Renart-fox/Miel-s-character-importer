@@ -1,0 +1,38 @@
+{
+  "folder": "o1pXtBYn01yv1yg0",
+  "name": "Imposture",
+  "type": "power",
+  "img": "Vampire/Icones/occultation.png",
+  "_id": "4tan8p1NMc9nwVgo",
+  "system": {
+    "description": "<p><strong>Pr&eacute;requis :</strong>&nbsp;Masque aux Mille Visages.<br>Apr&egrave;s avoir attentivement observ&eacute; un individu et son comportement, l&rsquo;utilisateur peut adopter son apparence, peu importe son genre et sa carrure.<br><br><strong>Jet :&nbsp;</strong>Astuce + Occultation (jet cach&eacute;, difficult&eacute; 4), Manipulation + Repr&eacute;sentation.<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation suppl&eacute;mentaire.<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;observation du corps prend 5 minutes et celle du comportement 10 minutes. Le premier jet d&eacute;termine si les proches se douteront de quelque chose, le second est n&eacute;cessaire si le premier est r&eacute;ussi, sauf en cas de victoire critique.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "obfuscate",
+    "duration": "",
+    "level": 5,
+    "dice1": "wits",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711966376520,
+    "modifiedTime": 1711966473772,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!4tan8p1NMc9nwVgo"
+}

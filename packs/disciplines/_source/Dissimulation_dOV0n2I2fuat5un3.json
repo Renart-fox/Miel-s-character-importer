@@ -1,0 +1,38 @@
+{
+  "folder": "h8nL18BCUlYpsLQG",
+  "name": "Dissimulation",
+  "type": "power",
+  "img": "Vampire/Icones/occultation.png",
+  "_id": "dOV0n2I2fuat5un3",
+  "system": {
+    "description": "<p><strong>Pouvoir amalgam&eacute; :</strong>&nbsp;Auspex 3.<br>Masque un objet inanim&eacute;.<br><br><strong>Jet :&nbsp;</strong>Intelligence + Occultation (difficult&eacute; variable).<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;L&rsquo;utilisateur doit toucher l&rsquo;objet. La marge d&eacute;finit le nombre de nuits pendant lesquelles dure l&rsquo;effet. Tout ce qui se trouve &agrave; l&rsquo;int&eacute;rieur de l&rsquo;objet dispara&icirc;t aussi pour un observateur ext&eacute;rieur. La taille maximum de l&rsquo;objet est celle d&rsquo;une maison &agrave; un &eacute;tage et il doit &ecirc;tre immobile.<br><strong>Dur&eacute;e :</strong> 1 nuit par marge.</p>",
+    "bonuses": [],
+    "discipline": "obfuscate",
+    "duration": "",
+    "level": 4,
+    "dice1": "intelligence",
+    "dice2": "obfuscate",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": true,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711966353046,
+    "modifiedTime": 1711966469837,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!dOV0n2I2fuat5un3"
+}

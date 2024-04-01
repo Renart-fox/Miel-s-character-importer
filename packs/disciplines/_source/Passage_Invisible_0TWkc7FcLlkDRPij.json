@@ -1,0 +1,38 @@
+{
+  "folder": "10xWtH6SdbGzWtI9",
+  "name": "Passage Invisible",
+  "type": "power",
+  "img": "Vampire/Icones/occultation.png",
+  "_id": "0TWkc7FcLlkDRPij",
+  "system": {
+    "description": "<p>Le vampire peut alors se d&eacute;placer en restant dissimul&eacute;.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Le pouvoir reste actif tant que l&rsquo;odeur &eacute;manant du vampire n&rsquo;est pas trop important, ses gestes pas trop brusques et ses sons se r&eacute;duisant &agrave; un murmure.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "obfuscate",
+    "duration": "",
+    "level": 2,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711966136914,
+    "modifiedTime": 1711966440890,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!0TWkc7FcLlkDRPij"
+}

@@ -1,0 +1,38 @@
+{
+  "folder": "ifH2AP5YO274A4el",
+  "name": "Regard Terrifiant",
+  "type": "power",
+  "img": "Vampire/Icones/presence.png",
+  "_id": "JzSUguucfRdH2Zgn",
+  "system": {
+    "description": "<p>R&eacute;v&egrave;le sa nature vampirique profonde &agrave; une cible unique, la plongeant dans une terreur absolue. D&eacute;clenche une peur incroyable chez un mortel, tandis qu&rsquo;un Descendant courbera l&rsquo;&eacute;chine voire sera en proie au R&ouml;tschreck.<br><br><strong>Jet :&nbsp;</strong>Charisme + Pr&eacute;sence contre Sang-froid + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Le personnage d&eacute;voile ses crocs, en une grimace pr&eacute;datrice. En cas d&rsquo;&eacute;chec, pas d&rsquo;effet sur un vampire. Un mortel recule et ne peut pas agir pendant un tour. En cas de victoire, un vampire recule et ne peut pas agir pendant un tour, &agrave; moins de d&eacute;penser autant de points de Volont&eacute; que la marge de r&eacute;ussite. Un mortel, s&rsquo;enfuit, pris de panique. En cas de victoire critique, un vampire doit faire un jet de R&ouml;tschreck (difficult&eacute; 3), en cas de victoire, l&rsquo;effet pr&eacute;c&eacute;dent s&rsquo;applique sans possibilit&eacute; de d&eacute;penser de Volont&eacute;. Un mortel se recroqueville en position foetal, fig&eacute; de peur.<br><strong>Dur&eacute;e :</strong> Un tour.</p>",
+    "bonuses": [],
+    "discipline": "presence",
+    "duration": "",
+    "level": 3,
+    "dice1": "charisma",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1711966698756,
+    "modifiedTime": 1711966911838,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!JzSUguucfRdH2Zgn"
+}
