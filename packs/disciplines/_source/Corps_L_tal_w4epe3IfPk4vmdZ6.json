@@ -1,0 +1,38 @@
+{
+  "folder": "UKITYcnPCYsK8qoP",
+  "name": "Corps Létal",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/potence.png",
+  "_id": "w4epe3IfPk4vmdZ6",
+  "system": {
+    "description": "<p>M&ecirc;me &agrave; mains nues, le vampire peut infliger des blessures terrifiantes aux mortels.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Gratuit.<br><strong>Syst&egrave;me :</strong>&nbsp;S&rsquo;il le souhaite, le vampire peut inflige des d&eacute;g&acirc;ts aggrav&eacute;s aux mortels. Ignore de plus un point d&rsquo;armure par niveau de Puissance.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",
+    "bonuses": [],
+    "discipline": "potence",
+    "duration": "",
+    "level": 1,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712039487696,
+    "modifiedTime": 1712040554317,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!w4epe3IfPk4vmdZ6"
+}

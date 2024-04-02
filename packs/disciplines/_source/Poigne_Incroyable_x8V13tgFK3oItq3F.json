@@ -1,0 +1,38 @@
+{
+  "folder": "beJ7eICEI8vLuycC",
+  "name": "Poigne Incroyable",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/potence.png",
+  "_id": "x8V13tgFK3oItq3F",
+  "system": {
+    "description": "<p>En concentrant toute sa Puissance dans ses doigts et ses orteils, ceux-ci peuvent s&rsquo;enfoncer dans n&rsquo;importe quelle surface &laquo; molle &raquo;, permettant d&rsquo;escalader et se suspendre au plafond facilement.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Les jets d&rsquo;escalade sont r&eacute;ussis d&rsquo;office sur des surfaces pas trop r&eacute;sistantes. Sur autre chose que du verre, identifier les traces demande un jet d&rsquo;Intelligence + Investigation (difficult&eacute; 2).<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "potence",
+    "duration": "",
+    "level": 3,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712039589293,
+    "modifiedTime": 1712040583054,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!x8V13tgFK3oItq3F"
+}
