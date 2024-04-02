@@ -5,7 +5,7 @@
   "img": "Vampire/Icones/presence.png",
   "_id": "VdkXepMGFrKrC16N",
   "system": {
-    "description": "<p>Il &eacute;mane une aura quasi divine du personnage.<br><br><strong>Jet :&nbsp;</strong>Charisme + Pr&eacute;sence contre Sang-froid + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Deux tests d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Les cibles restent bouche b&eacute;e devant l&rsquo;utilisateur, le fuient de terreur ou se soumettent &agrave; son autorit&eacute;. Vouloir aller &agrave; l&rsquo;encontre de l&rsquo;effet demande le jet en opposition, une victoire lib&egrave;re de l&rsquo;influence pour un tour, une victoire critique, pour une sc&egrave;ne.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",
+    "description": "<p>Il &eacute;mane une aura quasi divine du personnage.<br><br><strong>Jet :&nbsp;</strong>Charisme + Pr&eacute;sence contre Sang-froid + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Deux tests d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong> Les cibles restent bouche b&eacute;e devant l&rsquo;utilisateur, le fuient de terreur ou se soumettent &agrave; son autorit&eacute;. Vouloir aller &agrave; l&rsquo;encontre de l&rsquo;effet demande le jet en opposition, une victoire lib&egrave;re de l&rsquo;influence pour un tour, une victoire critique, pour une sc&egrave;ne. La victoire est automatique si la vie de la victime est menac&eacute;e ou pour se d&eacute;fendre.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",
     "bonuses": [],
     "discipline": "presence",
     "duration": "",
@@ -31,7 +31,7 @@
     "systemVersion": "4.0.1",
     "coreVersion": "11.315",
     "createdTime": 1711966849652,
-    "modifiedTime": 1711966938112,
+    "modifiedTime": 1712039345955,
     "lastModifiedBy": "hCCQWghSEZa7MdeI"
   },
   "_key": "!items!VdkXepMGFrKrC16N"

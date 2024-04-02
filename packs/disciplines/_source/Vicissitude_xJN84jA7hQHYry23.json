@@ -1,0 +1,38 @@
+{
+  "folder": "KZhjAgQKncAOSGbc",
+  "name": "Vicissitude",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/protean.png",
+  "_id": "xJN84jA7hQHYry23",
+  "system": {
+    "description": "<p><strong>Pouvoir amalgam&eacute; :&nbsp;</strong>Domination 2.<br>Le vampire peut sculpter et d&eacute;former sa peau, ses muscles et ses os.<br><br><strong>Jet :&nbsp;</strong>R&eacute;solution + Prot&eacute;isme.<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Peut faire autant de modifications que sa marge en un seul jet, mais sans jamais d&eacute;passer son niveau de Prot&eacute;isme, m&ecirc;me en plusieurs jets. Chaque modification diminue de</p>\n<ul>\n<li>Redistribution&nbsp;: +1 &agrave; un attribut physique (5 maximum). Modifications visibles mais pas forc&eacute;ment monstrueuses.</li>\n<li>Armes (une seule fois)&nbsp;: donne une arme contondante lourd ou perforante l&eacute;g&egrave;re (+2 d&eacute;g&acirc;ts).</li>\n<li>Armure&nbsp;: +2 points d&rsquo;armure, maximum 6. De plus en plus inhumain selon le score d&rsquo;armure.</li>\n<li>Apparence&nbsp;(une sc&egrave;ne)&nbsp;: Dext&eacute;rit&eacute; + Artisanat difficult&eacute; 3 pour cacher son identit&eacute;, 4 pour l&rsquo;atout Apparence +1, 5 pour imiter le physique d&rsquo;une personne. Un &eacute;chec consomme quand m&ecirc;me le point d&rsquo;attribut, un &eacute;chec total diminue de 1 l&rsquo;atout Apparence. Les Nosferatu ne peuvent que cacher leur identit&eacute; ainsi.</li>\n<li>Autres modifications&nbsp;: Les jets possibles sont Dext&eacute;rit&eacute; + Artisanat ou Intelligence + M&eacute;decine, la difficult&eacute;, le temps les points d&rsquo;attributs demand&eacute;s &eacute;tant variable.</li>\n</ul>\n<p>Toute modification peut &ecirc;tre gu&eacute;rie comme &eacute;tant 1 point de d&eacute;g&acirc;t aggrav&eacute; ; les points d&rsquo;attributs associ&eacute;s sont ainsi rendus.<br><strong>Dur&eacute;e :</strong> Permanent.</p>",
+    "bonuses": [],
+    "discipline": "protean",
+    "duration": "",
+    "level": 2,
+    "dice1": "resolve",
+    "dice2": "protean",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": true,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712037659704,
+    "modifiedTime": 1712038317067,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!xJN84jA7hQHYry23"
+}

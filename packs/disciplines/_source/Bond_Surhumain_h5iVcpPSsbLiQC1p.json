@@ -1,0 +1,38 @@
+{
+  "folder": "UKITYcnPCYsK8qoP",
+  "name": "Bond Surhumain",
+  "type": "power",
+  "img": "/systems/vtm5e/assets/icons/items/discipline.png",
+  "_id": "h5iVcpPSsbLiQC1p",
+  "system": {
+    "description": "",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 1,
+    "dice1": "discipline",
+    "dice2": "discipline",
+    "cost": "",
+    "rollable": false,
+    "skill": false,
+    "amalgam": false,
+    "rouse": false,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712038403585,
+    "modifiedTime": 1712038416501,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!h5iVcpPSsbLiQC1p"
+}
