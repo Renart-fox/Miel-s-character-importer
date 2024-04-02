@@ -1,0 +1,38 @@
+{
+  "folder": "2s8Px4P81xhnilmU",
+  "name": "Telle la Brume sur l'Eau",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "Ri51X89JT6pE5zkD",
+  "system": {
+    "description": "<p>Gr&acirc;ce &agrave; ce rituel, le vampire peut traverser n&rsquo;importe quel plan d&rsquo;eau en marchant dessus silencieusement comme s&rsquo;il ne pesait rien. De la brume s&rsquo;&eacute;l&egrave;ve des endroits o&ugrave; il a pos&eacute; les pieds.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>Un morceau de bois venant d&rsquo;un bateau, un plan d&rsquo;eau.<br><strong>Pr&eacute;paration :&nbsp;</strong>Le vampire immerge le bois dans l&rsquo;eau qu&rsquo;il veut traverser et y verse sa vitae.<br><strong>Syst&egrave;me :&nbsp;</strong>A l&rsquo;issu du Rituel, le vampire peut marcher sur ce plan d&rsquo;eau pendant le reste de la nuit. L&rsquo;effet peut &ecirc;tre annul&eacute; si le corcier le d&eacute;sire, mais il faudra alors relancer le Rituel pour en profiter de nouveau.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 2,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042150551,
+    "modifiedTime": 1712042963452,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!Ri51X89JT6pE5zkD"
+}

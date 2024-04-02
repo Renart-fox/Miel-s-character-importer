@@ -1,0 +1,38 @@
+{
+  "folder": "M9Q5wpBBNX1tk1Cc",
+  "name": "Protection contre les Caïnites",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "JULHAcCiJpUs49C4",
+  "system": {
+    "description": "<p>Prot&egrave;ge de tous les vampires sauf l&rsquo;officiant. Un jet en opposition d&rsquo;Intelligence + Auspex contre le r&eacute;sultat du jet de Rituel donne le nom de l&rsquo;officiant.<br><br><strong>Ingr&eacute;dients :</strong> Les cendres encore chaudes d&rsquo;un feu qui continue &agrave; br&ucirc;ler. Si cela d&eacute;clenche un R&ouml;tschreck, le Rituel ne peut pas &ecirc;tre r&eacute;alis&eacute; cette m&ecirc;me nuit.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 4,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042698695,
+    "modifiedTime": 1712043031014,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!JULHAcCiJpUs49C4"
+}

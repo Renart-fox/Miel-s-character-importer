@@ -1,0 +1,38 @@
+{
+  "folder": "p41LpszOb6eYrY7n",
+  "name": "Vol de Vitae",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "afmipVawPOKHJUxP",
+  "system": {
+    "description": "<p>Une art&egrave;re principale du mortel s&rsquo;ouvre soudain et le sang en sort directement pour rejoindre la bouche de l&rsquo;utilisateur. L&rsquo;extase du Baiser s&rsquo;applique au mortel et la blessure de referme &agrave; la fin du pouvoir.<br><br><strong>Jet :</strong>&nbsp;Astuce + Sorcellerie contre Astuce + Occultisme.<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;L&rsquo;utilisateur doit voir le mortel et faire un geste d&rsquo;invitation. L&rsquo;effet se d&eacute;clenche sur une victoire (mais ne fait que quitter le corps s&rsquo;il rev&ecirc;t une combinaison herm&eacute;tique). Le vampire ne pas rien tenter d&rsquo;autre pendant le repas, qui dure deux fois moins longtemps que d&rsquo;habitude (trois fois sur une victoire critique).<br><strong>Dur&eacute;e :</strong> Un repas plus court.</p>",
+    "bonuses": [],
+    "discipline": "sorcery",
+    "duration": "",
+    "level": 4,
+    "dice1": "wits",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712041333365,
+    "modifiedTime": 1712043109438,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!afmipVawPOKHJUxP"
+}

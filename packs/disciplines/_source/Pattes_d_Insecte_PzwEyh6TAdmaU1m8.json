@@ -1,0 +1,38 @@
+{
+  "folder": "JetEDfheOfcemufY",
+  "name": "Pattes d'Insecte",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "PzwEyh6TAdmaU1m8",
+  "system": {
+    "description": "<p>Permet au vampire de s&rsquo;accrocher aux murs et plafonds.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>Une araign&eacute;e vivante.<br><strong>Pr&eacute;paration :&nbsp;</strong>Remplir une fiole de son sang puis y &eacute;craser l&rsquo;araign&eacute;e. M&eacute;langer, puis avaler la mixture.<br><strong>Syst&egrave;me :</strong> Sur une victoire, dure une sc&egrave;ne. Sur une victoire critique, dure une nuit. Les pieds et mains de l&rsquo;utilisateur doivent rester directement en contact avec la surface parcourue et s&rsquo;y d&eacute;place &agrave; la moiti&eacute; de sa vitesse de marche.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 1,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712041496807,
+    "modifiedTime": 1712042920703,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!PzwEyh6TAdmaU1m8"
+}

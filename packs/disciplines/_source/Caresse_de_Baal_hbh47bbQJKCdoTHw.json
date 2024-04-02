@@ -1,0 +1,38 @@
+{
+  "folder": "8bCX8CiJtkMpazkX",
+  "name": "Caresse de Baal",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "hbh47bbQJKCdoTHw",
+  "system": {
+    "description": "<p>Une version plus puissante que le Toucher du Scorpion.<br><br><strong>Jet :</strong>&nbsp;Force + Sorcellerie du Sang contre Vigueur + Occultisme/Force d&rsquo;&Acirc;me.<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;M&ecirc;me r&egrave;gle que le Toucher du Scorpion. Peu importe la cr&eacute;ature, les d&eacute;g&acirc;ts sont aggrav&eacute;s. Un mortel d&eacute;c&egrave;de au moindre d&eacute;g&acirc;t re&ccedil;u. Si un vampire subit au moins 1 d&eacute;g&acirc;t, le jet est r&eacute;it&eacute;r&eacute; et, en cas de victoire, la victime sombrera en torpeur quand il s&rsquo;endormira.<br><strong>Dur&eacute;e :</strong> Le poison reste efficace pendant une sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "sorcery",
+    "duration": "",
+    "level": 5,
+    "dice1": "strength",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712041354674,
+    "modifiedTime": 1712043114400,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!hbh47bbQJKCdoTHw"
+}

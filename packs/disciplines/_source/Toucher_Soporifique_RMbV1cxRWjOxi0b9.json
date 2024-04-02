@@ -1,0 +1,38 @@
+{
+  "folder": "2s8Px4P81xhnilmU",
+  "name": "Toucher Soporifique",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "RMbV1cxRWjOxi0b9",
+  "system": {
+    "description": "<p>Le sorcier peut transformer une dose de sa propre vitae en une drogue agissant au toucher, qui d&eacute;sinhibe la victime et la rend vuln&eacute;rable &agrave; des disciplines telles que Pr&eacute;sence et Domination, ainsi qu&rsquo;aux tentatives ordinaires de manipulation, de coercition et d&rsquo;interrogatoire.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>Une petite quantit&eacute; de haschich ou autre stup&eacute;fiant.<br><strong>Pr&eacute;paration :&nbsp;</strong>Le sorcier m&eacute;lange la substance &agrave; son sang et frotte le tout entre ses doigts en r&eacute;citant l&rsquo;incantation. Pr&eacute;parer ce rituel ne prend que quelques minutes.<br><strong>Syst&egrave;me :&nbsp;</strong>Le jet de Rituel n&rsquo;est lanc&eacute; qu&rsquo;au contact de la victime, en tant que jet d&rsquo;opposition contre Vigueur + R&eacute;solution. Pour le reste de la sc&egrave;ne, la cible perd un nombre de d&eacute;s &eacute;gal &agrave; la marge de l&rsquo;utilisateur sur tous ses groupements impliquant R&eacute;solution ou Sang-froid (n&rsquo;appliquer qu&rsquo;une fois le malus sur un jet de R&eacute;solution + Sang-froid). La vitae drogu&eacute;e conserve son pouvoir jusqu&rsquo;&agrave; &ecirc;tre utilis&eacute;e ou jusqu&rsquo;&agrave; la fin de la sc&egrave;ne.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 2,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042172122,
+    "modifiedTime": 1712042966726,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!RMbV1cxRWjOxi0b9"
+}

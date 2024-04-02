@@ -1,0 +1,38 @@
+{
+  "folder": "l7e8hRQiJEAvmhSg",
+  "name": "S'Unir à la Lame",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "LqKQwqsTp6CO8X6S",
+  "system": {
+    "description": "<p>Certains Descendants forgent une relation &eacute;troite avec leur arme favorite, qu&rsquo;ils portent et utilisent pendant des si&egrave;cles. ne telle arme ne rouille et ne s&rsquo;&eacute;mousse jamais tant qu&rsquo;elle demeure en possession du vampire. Si quelqu&rsquo;un d&rsquo;autre en prend possession, la lame vieillit rapidement, &agrave; la mani&egrave;re d&rsquo;une goule sans vitae. Si l&rsquo;arme est encore utilisable apr&egrave;s cette d&eacute;g&eacute;n&eacute;rescence, elle peut infliger des blessures terribles au sorcier de sang uni &agrave; cette arme.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>Une arme de m&ecirc;l&eacute;e et suffisamment de vitae du lanceur pour l&rsquo;immerger compl&egrave;tement.<br><strong>Pr&eacute;paration :&nbsp;</strong>Le vampire immerge l&rsquo;arme dans sa vitae et pr&ecirc;te un serment d&eacute;diant sa non-vie &agrave; l&rsquo;arme. Celle-ci doit rester totalement immerg&eacute;e jusqu&rsquo;au lever du soleil.<br><strong>Syst&egrave;me :&nbsp;</strong>Une fois le Rituel r&eacute;ussi, l&rsquo;arme devient li&eacute;e &agrave; l&rsquo;utilisateur. Celle-ci est toujours impeccable, &agrave; moins d&rsquo;&ecirc;tre volontairement d&eacute;grad&eacute;e lorsqu&rsquo;elle n&rsquo;est pas en possession du lanceur. De plus, si le sorcier l&rsquo;oint de son sang par la suite, elle donne une bonus de 2 d&eacute;s lorsqu&rsquo;elle est utilis&eacute;e en combat. L&rsquo;oindre prend un tour, d&eacute;clenche un test d&rsquo;Exaltation et dure une sc&egrave;ne. Un vampire ne peut jamais poss&eacute;der plus d&rsquo;une arme f&eacute;tiche cr&eacute;&eacute;e de cette mani&egrave;re. Pour changer d&rsquo;arme, la pr&eacute;c&eacute;dente doit &ecirc;tre d&eacute;truite. Si l&rsquo;arme est utilis&eacute;e contre son propri&eacute;taire d&rsquo;origine, elle lui inflige des d&eacute;g&acirc;ts aggrav&eacute;s</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 3,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042380802,
+    "modifiedTime": 1712043003380,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!LqKQwqsTp6CO8X6S"
+}

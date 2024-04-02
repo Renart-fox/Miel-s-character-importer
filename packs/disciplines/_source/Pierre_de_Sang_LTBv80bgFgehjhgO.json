@@ -1,0 +1,38 @@
+{
+  "folder": "JetEDfheOfcemufY",
+  "name": "Pierre de Sang",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "LTBv80bgFgehjhgO",
+  "system": {
+    "description": "<p>Cette pierre est une balise magique dont le vampire sait &agrave; tout moment dans quelle direction et &agrave; quelle distance elle se situe.<br><br><strong>Ingr&eacute;dients :</strong>&nbsp;Un morceau de minerai de fer ou un aimant, un litre de sang, le tout dans un bol d&rsquo;argent.<br><strong>Pr&eacute;paration :&nbsp;</strong>Verser son sang dans le bol d&eacute;j&agrave; rempli, r&eacute;citer le chant rituel pendant 1 heure, 3 nuits de suite. Peu &agrave; peu, l&rsquo;objet absorbera le sang, le liquide virant translucide.<br><strong>Syst&egrave;me :</strong> Tant que l&rsquo;objet est intact et que le jet donne une victoire, l&rsquo;effet dure une semaine, un mois sur une victoire critique. Le vampire peut avoir autant de Pierre de Sang active que son niveau de R&eacute;solution.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 1,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712041511844,
+    "modifiedTime": 1712042924429,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!LTBv80bgFgehjhgO"
+}

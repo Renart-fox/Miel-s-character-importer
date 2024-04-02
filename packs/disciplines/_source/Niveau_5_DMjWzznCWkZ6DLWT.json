@@ -1,0 +1,19 @@
+{
+  "name": "Niveau 5",
+  "sorting": "a",
+  "folder": "55mQGdW0PYSFPE2j",
+  "type": "Item",
+  "_id": "DMjWzznCWkZ6DLWT",
+  "sort": 500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1712041526194,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!folders!DMjWzznCWkZ6DLWT"
+}

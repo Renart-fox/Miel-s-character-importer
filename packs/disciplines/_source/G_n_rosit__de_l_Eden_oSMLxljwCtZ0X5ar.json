@@ -1,0 +1,38 @@
+{
+  "folder": "DMjWzznCWkZ6DLWT",
+  "name": "Générosité de l'Eden",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "oSMLxljwCtZ0X5ar",
+  "system": {
+    "description": "<p><em>Bahari, COTBG p56</em><br>Absorbe le sang de tout mortel dans la zone d&rsquo;effet.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>Un cadavre, un arbre vivant, une pomme fra&icirc;che, une pomme pourrie.<br><strong>Proc&eacute;d&eacute; :</strong>&nbsp;D&eacute;poser le corps au pied de l&rsquo;arbre, puis ins&eacute;rer la pomme fra&icirc;che dans la bouche du cadavre, ainsi que la pomme pourrie dans celle du vampire. Le corps alors est absorb&eacute; par l&rsquo;arbre et tous les mortels dans un rayon de 1 kilom&egrave;tre perdent un peu de sang, qui suinte alors de la pomme pourrie.<br><strong>Syst&egrave;me :&nbsp;</strong>Sur une victoire, r&eacute;duit la Soif du vampire &agrave; 1, sur une victoire critique, &agrave; 0, et ce sans meurtre. Sur un &eacute;chec critique, le vampire sombre en Fr&eacute;n&eacute;sie de Soif. Si la zone est peupl&eacute;e essentiellement, et &agrave; la connaissance du vampire, de proies taboues, cela engendre des Fl&eacute;trissures. La perte de sang n&rsquo;est pas visible mais les mortels touch&eacute;s subiront 1 d&eacute;g&acirc;t aggrav&eacute; et retireront 1 d&eacute; de leurs groupements physiques jusqu&rsquo;&agrave; la fin de la partie.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 5,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042811696,
+    "modifiedTime": 1712043052370,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!oSMLxljwCtZ0X5ar"
+}

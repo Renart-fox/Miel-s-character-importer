@@ -1,0 +1,38 @@
+{
+  "folder": "DMjWzznCWkZ6DLWT",
+  "name": "Coeur de Pierre",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "Sx46qyJKpexq8Qrs",
+  "system": {
+    "description": "<p>Prot&egrave;ge non seulement du pieu mais aussi de tout remord, &eacute;motion ou attentions sociale.<br><br><strong>Ingr&eacute;dients :</strong>&nbsp;Une dalle en pierre et une bougie en cire recouverte du sang.<br><strong>Pr&eacute;paration :</strong>&nbsp;S&rsquo;allonger sur la dalle et laisser la bougie se consumer sur sa poitrine, causant 1 d&eacute;g&acirc;t aggrav&eacute; et un test de R&ouml;tschreck (difficult&eacute; 3). Le jet de Rituel est fait s&rsquo;il r&eacute;siste. Une victoire critique gu&eacute;rit le d&eacute;g&acirc;t subi.<br><strong>Syst&egrave;me :</strong> Immunis&eacute; aux pieux. Retire trois d&eacute;s sur ses jets de remords et ses jets sociaux. Gagne trois d&eacute;s pour r&eacute;sister aux jets d&rsquo;oppositions sociaux, dont Pr&eacute;sence. Ne peut pas utiliser Pr&eacute;sence. L&rsquo;effet dure jusqu&rsquo;&agrave; ce que le Rituel soit recommenc&eacute;.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 5,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042790796,
+    "modifiedTime": 1712043049051,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!Sx46qyJKpexq8Qrs"
+}

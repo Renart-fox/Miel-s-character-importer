@@ -1,0 +1,38 @@
+{
+  "folder": "M9Q5wpBBNX1tk1Cc",
+  "name": "Mémoire Guidée",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "SwggXNefn4dPrdLj",
+  "system": {
+    "description": "<p>En buvant le sang d&rsquo;un Descendant consentant, un (<em>ou plusieurs</em>) vampire peut revivre les souvenirs du donneur, qui le guide dans ses exp&eacute;riences pass&eacute;es. Cela peut permettre au ca&iuml;nite de se &ldquo;rappeler&rdquo; de souvenirs datant d&rsquo;avant sa naissance. De plus, ces voyages guid&eacute;s peuvent d&eacute;verrouiller des pouvoirs de discipline, des atouts et potentiellement d&rsquo;autres facult&eacute;s du sang du donneur.<br><br><strong>Ingr&eacute;dients :&nbsp;</strong>La vitae d&rsquo;un autre vampire, du romarin s&eacute;ch&eacute; et des coquelicots ou des myosotis frais.<br><strong>Pr&eacute;paration :&nbsp;</strong>Le sorcier br&ucirc;le les fleurs et le romarin puis m&eacute;lange les cendres &agrave; la vitae donn&eacute;e et consomme la substance.<br><strong>Syst&egrave;me :&nbsp;</strong>Le sorcier choisit un objectif de Memoriam ou l&rsquo;un des objectifs ci-dessous :</p>\n<ul>\n<li>&bull; Un pouvoir de discipline niveau 1 ou un atout &agrave; 1 point</li>\n<li>&bull;&bull; Un pouvoir de discipline niveau 2 ou un atout &agrave; 2 points</li>\n<li>&bull;&bull;&bull; Un pouvoir de discipline niveau 3 ou un atout &agrave; 3 points</li>\n</ul>\n<p>L&rsquo;utilisateur peut voir une application du pouvoir pendant le Memoriam ou le souvenir m&ecirc;me peut &ecirc;tre celui du donner qui apprend le pouvoir. L&rsquo;atout peut d&eacute;couler d&rsquo;une situation similaire ou r&eacute;sulter du fait que le personnage d&eacute;couvre un secret ou un potentiel dans le pass&eacute;. Le joueur peut rechercher un pouvoir ou un atout sp&eacute;cifique, mais le conteur d&eacute;termine quel don le personnage acquiert en fin de compte. Toutes les facult&eacute;s venant d&rsquo;un Memoriam guid&eacute; se dissipent quand de nouveaux souvenirs du personnage lui-m&ecirc;me recouvrent ces r&eacute;miniscences d&eacute;terr&eacute;es et import&eacute;es. Les facult&eacute;s durent jusqu&rsquo;&agrave; la fin de la partie.<br><em>Pouvoirs :&nbsp;</em>Le vampire peut d&eacute;passer sa limite de pouvoirs par discipline ainsi, mais doit avoir un score suffisamment &eacute;lev&eacute; pour acqu&eacute;rir ledit pouvoir.<br><em>Atouts :&nbsp;</em>Les points ne peuvent &ecirc;tre r&eacute;partis entre diff&eacute;rents atouts ni &ecirc;tre utilis&eacute;s pour augmenter un atout d&eacute;j&agrave; acquis.<br><em>Modificateurs :&nbsp;</em>Le Memoriam guid&eacute; implique des malus de : 1 d&eacute; si la sc&egrave;ne a lieu pendant ou apr&egrave;s la vie mortelle du vampire, 2 d&eacute;s si la sc&egrave;ne a lieu moins de un si&egrave;cle avant la vie mortelle du vampire, 4 d&eacute;s si la sc&egrave;ne a lieu entre un et deux si&egrave;cles avant la vie mortelle du vampire, 6 d&eacute;s si la sc&egrave;ne a lieu plus de deux si&egrave;cles avant la vie mortelle du vampire,</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 4,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042645238,
+    "modifiedTime": 1712043025013,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!SwggXNefn4dPrdLj"
+}

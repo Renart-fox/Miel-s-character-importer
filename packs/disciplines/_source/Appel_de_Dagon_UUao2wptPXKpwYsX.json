@@ -1,0 +1,38 @@
+{
+  "folder": "l7e8hRQiJEAvmhSg",
+  "name": "Appel de Dagon",
+  "type": "power",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/sorcery.png",
+  "_id": "UUao2wptPXKpwYsX",
+  "system": {
+    "description": "<p>Ce Rituel effrayant fait exploser les vaisseaux sanguins de la victime &agrave; distance.<br><br><strong>Ingr&eacute;dients :</strong>&nbsp;Une dague c&eacute;r&eacute;monielle incrust&eacute;e d&rsquo;or.<br><strong>Pr&eacute;paration :&nbsp;</strong>La victime doit avoir &eacute;t&eacute; en contact avec le sang de l&rsquo;utilisateur, ne serait-ce qu&rsquo;une goutte. Le Rituel peut alors avoir lieu entre 1 heure et 1 semaine apr&egrave;s. Il suffit de s&rsquo;entailler avec la dague, et l&rsquo;effet se d&eacute;clenche quand la vitae touche le sol.<br><strong>Syst&egrave;me :</strong> Au lieu du jet de Rituel, faire un jet d&rsquo;opposition de R&eacute;solution + Sorcellerie du Sang contre Vigueur + R&eacute;solution. La marge inflige des d&eacute;g&acirc;ts aggrav&eacute;s aux mortels et superficiels non divis&eacute;s par deux aux vampires. Peut &ecirc;tre r&eacute;it&eacute;r&eacute; jusqu&rsquo;&agrave; deux fois de plus avec le m&ecirc;me contact de sang initial.</p>",
+    "bonuses": [],
+    "discipline": "rituals",
+    "duration": "",
+    "level": 3,
+    "dice1": "intelligence",
+    "dice2": "discipline",
+    "cost": 1,
+    "rollable": true,
+    "skill": false,
+    "amalgam": false,
+    "rouse": true,
+    "macroid": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "hCCQWghSEZa7MdeI": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "vtm5e",
+    "systemVersion": "4.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1712042234079,
+    "modifiedTime": 1712042979631,
+    "lastModifiedBy": "hCCQWghSEZa7MdeI"
+  },
+  "_key": "!items!UUao2wptPXKpwYsX"
+}
