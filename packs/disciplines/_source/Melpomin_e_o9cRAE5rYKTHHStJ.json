@@ -2,7 +2,7 @@
   "folder": "OQBXjMlkF6UnqhuE",
   "name": "Melpominée",
   "type": "power",
-  "img": "Vampire/Icones/presence.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/presence.png",
   "_id": "o9cRAE5rYKTHHStJ",
   "system": {
     "description": "<p>La voix de l&rsquo;utilisateur devient pareille &agrave; celle d&rsquo;une sir&egrave;ne, capable d&rsquo;envo&ucirc;ter ou de terrifier &agrave; elle seule sans que l&rsquo;utilisateur doive &ecirc;tre pr&eacute;sent. La voix peut toucher tous ceux qui se trouvent &agrave; port&eacute;e de voix mais ne conserve pas sa capacit&eacute; si elle est enregistr&eacute;e ou transmise &eacute;lectroniquement.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit<br><strong>Syst&egrave;me :&nbsp;</strong>Le vampire peut utiliser R&eacute;v&eacute;rence, Intimider, Regard terrifiant, Envo&ucirc;tement et Majest&eacute; uniquement par la voix. Il n&rsquo;a pas besoin de partager la ligne de vue de la cible, tant que celle-ci est assez proche pour entendre sa voix.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif</p>",

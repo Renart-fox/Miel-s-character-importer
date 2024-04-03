@@ -2,7 +2,7 @@
   "folder": "B8kDRsHCJfX9BfxK",
   "name": "Hypnose Ancestrale",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "9jgTV1AXWrIZVcYc",
   "system": {
     "description": "<p><strong>Pr&eacute;requis :&nbsp;</strong>Hypnose<br><strong>Pouvoir amalgam&eacute; :&nbsp;</strong>Sorcellerie du Sang 2<br>Les vampires tr&egrave;s &acirc;g&eacute;s et tr&egrave;s puissants parviennent &agrave; exercer leur volont&eacute; par le Sang, en se dispensant du contact visuel et de la communication verbale avec leur cible et sans port&eacute;e maximale. Ce pouvoir permet &agrave; un ca&iuml;nite de contraindre l&rsquo;un de ses descendants &agrave; effectuer une action pour lui, m&ecirc;me si la cible serait normalement oppos&eacute;e &agrave; cette action. Quand il est soumis &agrave; ce pouvoir, un vampire sait instinctivement qu&rsquo;un anc&ecirc;tre le manipule.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Manipulation + Domination contre R&eacute;solution + Occultisme<br><strong>Syst&egrave;me :&nbsp;</strong>Si l&rsquo;utilisateur r&eacute;ussit, la cible ex&eacute;cute l&rsquo;ordre tant qu&rsquo;il n&rsquo;implique pas qu&rsquo;elle se fasse du mal. Pour chaque G&eacute;n&eacute;ration s&eacute;parant les deux, la cible gagne 1 d&eacute; bonus pour r&eacute;sister. A part le contact visuel et la communication, toutes les autres limitations de Domination s&rsquo;appliquent.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne ou jusqu&rsquo;&agrave; ce que l&rsquo;ordre soit satisfait (le plus court des deux)</p>",

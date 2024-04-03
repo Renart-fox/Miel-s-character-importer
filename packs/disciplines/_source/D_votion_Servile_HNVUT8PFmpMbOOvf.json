@@ -2,7 +2,7 @@
   "folder": "12pkNywGbvIjIUOX",
   "name": "Dévotion Servile",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "HNVUT8PFmpMbOOvf",
   "system": {
     "description": "<p><em>Les Myst&egrave;res de Mithras, COTBG p104</em><br><strong>Pouvoir amalgam&eacute; :&nbsp;</strong>Pr&eacute;sence 1.<br>Les victimes des pouvoirs de Domination sont r&eacute;sistantes face aux interf&eacute;rences d&rsquo;autres vampires.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Pas de co&ucirc;t suppl&eacute;mentaire.<br><strong>Syst&egrave;me :</strong>&nbsp;Toute influence mentale d&rsquo;un vampire sur une victime de l&rsquo;utilisateur d&rsquo;un pouvoir de Domination actif retire 4 d&eacute;s en opposition ou augmente la difficult&eacute; de 2, pour une difficult&eacute; maximum de 7.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",

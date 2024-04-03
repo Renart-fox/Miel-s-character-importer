@@ -2,7 +2,7 @@
   "folder": "iF46DwkQEOutfOrK",
   "name": "Trouver la Faille",
   "type": "power",
-  "img": "Vampire/Icones/auspex.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/auspex.png",
   "_id": "EQWUeQjHS73LW5rV",
   "system": {
     "description": "<p><strong>Pouvoir amalgam&eacute; :&nbsp;</strong>N&eacute;ant 1<br>Tout peut &ecirc;tre bris&eacute;, et le vampire qui utilise ce pouvoir arrive &agrave; voir les lignes de faille que va suivre la destruction. En observant le travail subtil de l&rsquo;entropie, il parvient &agrave; percevoir le talon d&rsquo;Achille d&rsquo;une cible, que ce soit une faille dans ses murailles mentales ou une faiblesse dans son armure materielle.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Intelligence + Auspex contre Sang-froid ou Vigueur + Subterfuge<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;utilisateur passe un tour &agrave; observer la cible. Il d&eacute;termine s&rsquo;il cherche une faille mentale ou physique ; le jet d&rsquo;opposition &eacute;tant respectivement bas&eacute; sur le Sang-froid et la Vigueur. En cas de victoire du vampire, il conna&icirc;t le groupement physique ou mental le plus bas et re&ccedil;oit un bonus de 2 d&eacute;s contre ce groupement. En partageant cette information, les personnes au courant gagnent 1 d&eacute; bonus.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne.</p>",

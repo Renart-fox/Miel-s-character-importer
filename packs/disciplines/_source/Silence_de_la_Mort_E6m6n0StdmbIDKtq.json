@@ -2,7 +2,7 @@
   "folder": "gJ32e77otPsFGqaN",
   "name": "Silence de la Mort",
   "type": "power",
-  "img": "Vampire/Icones/occultation.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/obfuscate.png",
   "_id": "E6m6n0StdmbIDKtq",
   "system": {
     "description": "<p>A moins de faire particuli&egrave;rement beaucoup de bruit, tous les sons &eacute;mis par le vampire sont r&eacute;duits au silence.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :&nbsp;</strong>Seuls les sons ne venant pas directement du vampire sont audibles, s&rsquo;il fait tomber quelque chose ou bouscule un objet par exemple.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",

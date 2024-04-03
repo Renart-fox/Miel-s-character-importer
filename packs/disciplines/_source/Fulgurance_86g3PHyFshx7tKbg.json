@@ -2,7 +2,7 @@
   "folder": "7fUFYZrBWj81nRC1",
   "name": "Fulgurance",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "86g3PHyFshx7tKbg",
   "system": {
     "description": "<p>Le vampire fait un sprint si vite qu&rsquo;il semble instantan&eacute;.<br><br><strong>Jet :</strong>&nbsp;Dext&eacute;rit&eacute; + Athl&eacute;tisme si terrain in&eacute;gal.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;le vampire court en ligne droite jusqu&rsquo;&agrave; sa cible. En un tour, il peut aller jusqu&rsquo;&agrave; 50m et effectuer une action une fois arriv&eacute;.<br><strong>Dur&eacute;e :</strong> Un tour.</p>",

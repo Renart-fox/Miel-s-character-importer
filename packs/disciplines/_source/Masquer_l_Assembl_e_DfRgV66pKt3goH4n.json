@@ -2,7 +2,7 @@
   "folder": "o1pXtBYn01yv1yg0",
   "name": "Masquer l'Assemblée",
   "type": "power",
-  "img": "Vampire/Icones/occultation.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/obfuscate.png",
   "_id": "DfRgV66pKt3goH4n",
   "system": {
     "description": "<p>L&rsquo;utilisateur peut utiliser ses pouvoirs d&rsquo;Occultation avec d&rsquo;autres personnes.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation suppl&eacute;mentaire minimum.<br><strong>Syst&egrave;me :</strong>&nbsp;Tout pouvoir d&rsquo;Occultation du vampire peut &ecirc;tre &eacute;tendu &agrave; autant de cibles que son Astuce plus un par test d&rsquo;Exaltation suppl&eacute;mentaire. On consid&egrave;re alors que chaque membre du groupe l&rsquo;a utilis&eacute; sur lui-m&ecirc;me et utilise le niveau d&rsquo;Occultation de l&rsquo;utilisateur pour ses jets. Le groupe est immunis&eacute; &agrave; l&rsquo;illusion de ses membres. Si l&rsquo;un d&rsquo;entre eux est rep&eacute;r&eacute;, les autres restent cach&eacute;s, sauf s&rsquo;il s&rsquo;agit de l&rsquo;utilisateur.<br><strong>Dur&eacute;e :&nbsp;</strong>Du pouvoir.</p>",

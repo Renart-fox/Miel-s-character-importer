@@ -2,7 +2,7 @@
   "folder": "1E2E7YkdLhU3GN3h",
   "name": "Frappe Éclair",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "3LN7QiutotIxBUco",
   "system": {
     "description": "<p>Le vampire frappe si vite que l&rsquo;oeil ne peut m&ecirc;me pas suivre le mouvement.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Utilisable avant une attaque de Bagarre ou M&ecirc;l&eacute;e. La difficult&eacute; est alors de 1, la cible ne pouvant esquiver. Si la cible a C&eacute;l&eacute;rit&eacute; 5, elle peut faire un test d&rsquo;Exaltation pour annuler ce pouvoir.<br><strong>Dur&eacute;e :&nbsp;</strong>Une seule attaque.</p>",

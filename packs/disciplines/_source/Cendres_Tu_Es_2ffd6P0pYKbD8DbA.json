@@ -2,7 +2,7 @@
   "folder": "SNodZOf5daXAq3yZ",
   "name": "Cendres Tu Es",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "2ffd6P0pYKbD8DbA",
   "system": {
     "description": "<p>Permet de dissoudre un cadavre sans laisser aucune trace. Ne fonctionne pas sur les cr&eacute;atures surnaturelles.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Jet :</strong>&nbsp;Vigueur + N&eacute;ant contre Vigueur + M&eacute;decine/Force d&rsquo;&Acirc;me<br><strong>Syst&egrave;me :</strong>&nbsp;Le vampire introduit sa vitae dans le corps, qui dispara&icirc;t en 3 tours s&rsquo;il n&rsquo;est pas anim&eacute;. S&rsquo;il l&rsquo;est, une victoire sur le jet d&rsquo;opposition le fait dispara&icirc;tre en 5 tours moins la marge (minimum 1 tour, et pendant la disparition, le corps subit un Affaiblissement Physique). Une victoire critique fait dispara&icirc;tre le corps instantan&eacute;ment. Un &eacute;chec critique acc&eacute;l&egrave;re grandement la putr&eacute;faction mais il ne se d&eacute;sint&egrave;gre pas ; le corps est alors immunis&eacute; &agrave; ce pouvoir, quelque soit l&rsquo;utilisateur.<br><strong>Dur&eacute;e :</strong> Variable</p>",

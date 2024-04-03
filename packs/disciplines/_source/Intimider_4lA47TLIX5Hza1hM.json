@@ -2,7 +2,7 @@
   "folder": "5NHL3zkr5LXPcp5a",
   "name": "Intimider",
   "type": "power",
-  "img": "Vampire/Icones/presence.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/presence.png",
   "_id": "4lA47TLIX5Hza1hM",
   "system": {
     "description": "<p>G&eacute;n&egrave;re une aura de menace &eacute;manant de l&rsquo;utilisateur.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :</strong>&nbsp;Le niveau de Pr&eacute;sence est ajout&eacute; aux jets d&rsquo;Intimidation. En outre, il faut r&eacute;ussir un jet de Volont&eacute; (difficult&eacute; 2) pour attaquer l&rsquo;utilisateur. Incompatible avec R&eacute;v&eacute;rence.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne ou jusqu&rsquo;&agrave; ce que l&rsquo;utilisateur y mette fin (le premier des deux qui a lieu).</p>",

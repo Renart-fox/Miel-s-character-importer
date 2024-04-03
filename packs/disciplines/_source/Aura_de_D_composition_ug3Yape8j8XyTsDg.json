@@ -2,7 +2,7 @@
   "folder": "irchWBi8ZRSnMUxO",
   "name": "Aura de Décomposition",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "ug3Yape8j8XyTsDg",
   "system": {
     "description": "<p>D&eacute;compose la nourriture, fane les plantes et rend malade animaux et humains. N&rsquo;acc&eacute;l&egrave;re pas la d&eacute;gradation des cadavres.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Vigueur + N&eacute;ant (difficult&eacute; 3 ou contre Vigueur + M&eacute;decine/Force d&rsquo;&Acirc;me)<br><strong>Syst&egrave;me :</strong>&nbsp;Dans un rayon de 5 m&egrave;tres autour de vampire, toute mati&egrave;re non-intelligente, organique ou inorganique pourrit. Si celle-ci est ing&eacute;r&eacute;e, elle inflige 2 d&eacute;g&acirc;ts superficiels par sc&egrave;ne jusqu&rsquo;&agrave; ce que l&rsquo;intoxication soit trait&eacute;e avec Intelligence + M&eacute;decine (difficult&eacute; 3).<br>Si un &ecirc;tre vivant est dans la zone d&rsquo;effet, il fait le jet en opposition et subit autant de d&eacute;g&acirc;ts superficiels non divis&eacute;s que la marge du vampire. Ces d&eacute;g&acirc;ts sont appliqu&eacute;s tout au long de la sc&egrave;ne. Plusieurs utilisations de ce pouvoir au cours de la m&ecirc;me sc&egrave;ne n&rsquo;ont pas d&rsquo;effet sur la sant&eacute; des mortels qui ont d&eacute;j&agrave; subi le pouvoir.<br>L&rsquo;utilisateur subit un malus de 2 d&eacute;s &agrave; ses groupement sociaux positifs car il &eacute;mane de lui une odeur de pourriture.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne.</p>",

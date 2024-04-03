@@ -2,7 +2,7 @@
   "folder": "vRRm34579MnMz3ZS",
   "name": "Breuvage d'Endurance",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "fsLbolYpcDq6AKOX",
   "system": {
     "description": "<p>Le sang du vampire est satur&eacute; de sa Force d&rsquo;&Acirc;me.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Le buveur gagne la moiti&eacute; de la Force d&rsquo;&Acirc;me (&agrave; l&rsquo;inf&eacute;rieur) du vampire, ainsi que ses pouvoirs non amalgam&eacute;s jusqu&rsquo;au niveau obtenu.<br><strong>Dur&eacute;e :</strong> une nuit ; jusqu&rsquo;au prochain repas/&agrave; Soif 5 pour un vampire.</p>",

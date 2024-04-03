@@ -1,7 +1,7 @@
 {
   "name": "Messager Animal",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "mLfZBvJeMEWgqAiY",
   "system": {
     "description": "<p><strong>Pr&eacute;requis : </strong>Lier le Famulus<br><strong>Pouvoir amalgam&eacute; : </strong>Auspex 1<br>Le famulus du vampire peut porter un message court &agrave; une personne que son ma&icirc;tre lui d&eacute;signe, &agrave; supposer que le famulus parvienne jusqu&rsquo;&agrave; elle. Ceux qui se trouvent &agrave; port&eacute;e de voix entendent le message comme si le famulus parlait avec la voix de son ma&icirc;tre.<br><br><strong>Co&ucirc;t : </strong>Un test d&rsquo;Exaltation par nuit.<br><strong>Jet : </strong>Aucun. Si l&rsquo;emplacement de la cible est inconnu, le famulus lance R&eacute;solution + Exp&eacute;rience de la rue ou Survie (difficult&eacute; 2 ou en opposition si la cible se cache).<br><strong>Syst&egrave;me : </strong>Le vampire murmure une seule phrase au famulus et d&eacute;clare la cible. Le jet de recherche peut &ecirc;tre effectu&eacute; une fois par nuit, tant que le sang est d&eacute;pens&eacute;. Le message est remis d&egrave;s que le famulus arrive &agrave; port&eacute;e de voix avec la cible, apr&egrave;s quoi il revient vers son ma&icirc;tre.<br><strong>Dur&eacute;e : </strong>Une ou plusieurs nuits.</p>",

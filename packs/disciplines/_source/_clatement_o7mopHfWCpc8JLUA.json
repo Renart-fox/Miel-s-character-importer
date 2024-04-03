@@ -2,7 +2,7 @@
   "folder": "vRRm34579MnMz3ZS",
   "name": "Éclatement",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "o7mopHfWCpc8JLUA",
   "system": {
     "description": "<p><em>Les Myst&egrave;res de Mithras, COTBG p104</em><br><strong>Pr&eacute;requis :</strong>&nbsp;R&eacute;sistance.<br>La peau du vampire est si dure que les armes et les os se brisent dessus.<br><br><strong>Jet :&nbsp;</strong>Vigueur + Force d&rsquo;&Acirc;me contre Vigueur (+ Force d&rsquo;&Acirc;me si l&rsquo;attaquant est &agrave; mains nues).<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Inflige autant de d&eacute;g&acirc;ts superficiels &agrave; l&rsquo;attaquant que l&rsquo;absorption de R&eacute;sistance, si celui-ci a a gagn&eacute; son jet de Bagarre. Une arme non enchant&eacute;e se brise si elle subit autant de d&eacute;g&acirc;ts que son modificateur de d&eacute;g&acirc;t de base. R&eacute;sistance doit &ecirc;tre active pour utiliser ce pouvoir, qui peut &ecirc;tre utilis&eacute; en r&eacute;action &agrave; une attaque, tant que le vampire n&rsquo;a pas d&eacute;j&agrave; utilis&eacute; une Discipline pendant ce tour.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne ou jusqu&rsquo;&agrave; avoir pris un coup.</p>",

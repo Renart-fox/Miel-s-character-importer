@@ -2,7 +2,7 @@
   "folder": "erpkTYkYG2a9OTSH",
   "name": "Appel du Voyageur",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "oABsr07uaXtLpCWc",
   "system": {
     "description": "<p><em>Culte de Shalim, COTBG p93</em><br>Permet aux pr&ecirc;tres de Shalim de communiquer avec ses fid&egrave;les.<br><br><strong>Pouvoir pr&eacute;requis :&nbsp;</strong>Vision Abyssale.<br><strong>Ingr&eacute;dients :</strong>&nbsp;Le Livre noir du Culte de Shalim.<br><strong>Proc&eacute;d&eacute; :&nbsp;</strong>Tenir le livre et penser au nom d&rsquo;un autre Shalimite. La cible conna&icirc;tra alors la localisation et le d&eacute;sir du pr&ecirc;tre de le voir.<br><strong>Syst&egrave;me :</strong> Le cible retire 2 d&eacute;s &agrave; tout groupement demandant d&rsquo;&ecirc;tre concentr&eacute; &agrave; cause des s&eacute;ries de flash lui montrant le lieu de rendez-vous, jusqu&rsquo;&agrave; la fin de la sc&egrave;ne. Une victoire critique autorise l&rsquo;utilisateur &agrave; accompagner d&rsquo;un seul mot l&rsquo;appel.</p>",

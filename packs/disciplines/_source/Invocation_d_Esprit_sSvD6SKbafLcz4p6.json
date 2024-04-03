@@ -2,7 +2,7 @@
   "folder": "erpkTYkYG2a9OTSH",
   "name": "Invocation d'Esprit",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "sSvD6SKbafLcz4p6",
   "system": {
     "description": "<p>Permet d&rsquo;invoquer un esprit depuis l&rsquo;Outremonde.<br><br><strong>Pouvoir pr&eacute;requis :&nbsp;</strong>Entrave des Morts<br><strong>Ingr&eacute;dients :</strong>&nbsp;Une Entrave de l&rsquo;esprit cible, une photo ou autre visuel du fant&ocirc;me, ou encore sa signature.<br><strong>Proc&eacute;d&eacute; :</strong>&nbsp;En versant sa vitae sur l&rsquo;Entrave, le vampire doit &eacute;tudier l&rsquo;image ou la signature du spectre et annoncer son nom. L&rsquo;invocation peut avoir un d&eacute;lai de plusieurs nuits et le Linceul doit &ecirc;tre suffisamment fin dans la zone. Bien que le spectre peut &ecirc;tre reconnaissant pour &ecirc;tre pass&eacute; de l&rsquo;autre c&ocirc;t&eacute;, sa fid&eacute;lit&eacute; n&rsquo;est en rien assur&eacute;e.<br><strong>Syst&egrave;me :</strong> L&rsquo;Entrave doit rester dans la zone une fois que la C&eacute;r&eacute;monie a &eacute;t&eacute; initi&eacute;e ou celle-ci prend fin. Le spectre dispara&icirc;t &agrave; la fin de la sc&egrave;ne sauf si une autre C&eacute;r&eacute;monie est utilis&eacute;e pour le contraindre ou le lier.</p>",

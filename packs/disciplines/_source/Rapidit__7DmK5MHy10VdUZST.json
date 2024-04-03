@@ -2,7 +2,7 @@
   "folder": "SLEyO3ZjIiqoGxsx",
   "name": "Rapidité",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "7DmK5MHy10VdUZST",
   "system": {
     "description": "<p>Le vampire se d&eacute;place et r&eacute;agit &agrave; une vitesse hallucinante.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Hors combat, le vampire ajoute son niveau de C&eacute;l&eacute;rit&eacute; &agrave; ses groupements de Dext&eacute;rit&eacute;. Le score de C&eacute;l&eacute;rit&eacute; est ajout&eacute; &agrave; l&rsquo;Initiative du vampire (dans ce cas le pouvoir peut &ecirc;tre activ&eacute; en r&eacute;action). Une fois par tour, l&rsquo;utilisateur peut utiliser ce bonus en esquivant.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",

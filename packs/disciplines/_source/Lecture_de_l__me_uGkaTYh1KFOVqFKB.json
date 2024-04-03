@@ -2,7 +2,7 @@
   "folder": "iF46DwkQEOutfOrK",
   "name": "Lecture de l'Âme",
   "type": "power",
-  "img": "Vampire/Icones/auspex.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/auspex.png",
   "_id": "uGkaTYh1KFOVqFKB",
   "system": {
     "description": "<p>Le vampire peut avoir des indices sur l&rsquo;&eacute;tat &eacute;motionnel d&rsquo;une personne, lui apparaissant sous la forme d&rsquo;une aura aux couleurs changeantes.<br><br><strong>Jet :&nbsp;</strong>Intelligence + Auspex contre Sang-froid + Subterfuge.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Autant de questions que la marge. Les questions incluent : l&rsquo;&eacute;tat &eacute;motionnel ; la R&eacute;sonance ; de quelle cr&eacute;ature il s&rsquo;agit ; sous influence de Discipline, Sort&hellip; ; a commis une diablerie encore visible ; sur une victoire critique, une information bonus. Le vampire peut chercher une information particuli&egrave;re en analysant une foule, la difficult&eacute; &eacute;tant alors variable selon la foule.<br><strong>Dur&eacute;e :</strong> un tour ou plus pour analyser une foule.</p>",

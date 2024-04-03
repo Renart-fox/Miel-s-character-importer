@@ -2,7 +2,7 @@
   "folder": "ifH2AP5YO274A4el",
   "name": "Envoûtement",
   "type": "power",
-  "img": "Vampire/Icones/presence.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/presence.png",
   "_id": "YhUY9d4b0zJq3uZJ",
   "system": {
     "description": "<p>Frappe une unique victime d&rsquo;un coup de foudre, un amour ou une fascination d&eacute;vorante, elle idol&acirc;tre alors l&rsquo;utilisateur, et fait tout pour rester dans ses bonnes gr&acirc;ces.<br><br><strong>Jet :&nbsp;</strong>Charisme + Pr&eacute;sence contre Sang-froid + Astuce.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;utilisateur doit avoir l&rsquo;attention de sa cible. L&rsquo;effet dure 1 heure par marge, le pouvoir &eacute;tant renouvelable. Sur un &eacute;chec, la cible est immunis&eacute;e pour la nuit. Tant qu&rsquo;elle est sous l&rsquo;effet, l&rsquo;utilisateur ajoute autant de d&eacute;s que son niveau de Pr&eacute;sence pour ses jets sociaux visant la cible. La requ&ecirc;te &eacute;choue si elle demande de nuire aux proches de la victime, &agrave; elle-m&ecirc;me ou d&rsquo;aller &agrave; l&rsquo;encontre de ses Convictions. Auquel cas, le jet en opposition est r&eacute;it&eacute;r&eacute;, prenant le risque de mettre fin &agrave; l&rsquo;Envo&ucirc;tement.<br><strong>Dur&eacute;e :</strong> 1 heure par marge.</p>",

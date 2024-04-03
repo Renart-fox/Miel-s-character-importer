@@ -2,7 +2,7 @@
   "folder": "9Xs9WvwniL01lHqg",
   "name": "Prédiction Fatale",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "ErQFReMnSOGBzgZs",
   "system": {
     "description": "<p><strong>Pouvoir amalgam&eacute; :</strong>&nbsp;Auspex 2.<br>Le vampire peut coudre des fils invisibles d&rsquo;entropie &agrave; un mortel cibl&eacute;, augmentant les probabilit&eacute;s qu&rsquo;il subisse des blessures ou m&ecirc;me meure au cours de la nuit et de la journ&eacute;e qui suivent. L&rsquo;effet ressemble &agrave; une mal&eacute;diction, mais le vampire ne peut pas interagir avec le mortel condamn&eacute; sinon le pouvoir cesse d&rsquo;agir.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>R&eacute;solution + N&eacute;ant contre Astuce + Occultisme<br><strong>Syst&egrave;me :&nbsp;</strong>Pour chaque marge, le mortel subit 1 d&eacute;g&acirc;t aggrav&eacute; de source quelconque au cours des prochaines 24 heures. Le vampire ne peut pas agir directement ou indirectement envers le mortel, au prix d&rsquo;annuler le pouvoir. Un observateur ext&eacute;rieur peut sentir que quelque chose de non naturel est &agrave; l&rsquo;&oelig;uvre avec un jet d&rsquo;Astuce + Occultisme (difficult&eacute; 3).<br><strong>Dur&eacute;e :&nbsp;</strong>24 heures.</p>",

@@ -1,7 +1,7 @@
 {
   "name": "Dompter la Bête",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "CYZaQi26Lz9wDq9b",
   "system": {
     "description": "<p>Plongeant son regard dans celui de la cible, le vampire calme la B&ecirc;te. Un mortel devient apathique, ne r&eacute;agissant que par r&eacute;flexe de survie, chez un Descendant ses pulsions bestiales se tairont un instant.<br><br><strong>Jet :</strong> Charisme + Animalisme contre Vigueur + R&eacute;solution.<br><strong>Co&ucirc;t : </strong>un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me : </strong>Face &agrave; un mortel, il sombre en l&eacute;thargie, ne r&eacute;agissant que pour survivre, mais pas tenter activement d&rsquo;action. Contre un vampire, il ne peut plus utiliser de Coup de Sang, ni &ecirc;tre victime de Triomphe Brutal ou d&rsquo;&Eacute;chec Bestial. Une victoire critique met imm&eacute;diatement fin &agrave; la fr&eacute;n&eacute;sie.<br><strong>Dur&eacute;e :</strong> une sc&egrave;ne ou marges + 1 tours.</p>",

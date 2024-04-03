@@ -2,7 +2,7 @@
   "folder": "q6ZbvFW82MyUxy0v",
   "name": "Contrainte",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "9fIJmHA4we4GnOdu",
   "system": {
     "description": "<p>La cible est oblig&eacute;e d&rsquo;effectuer un ordre qui tient en une phrase et est r&eacute;alisable en un tour. Un ordre ambigu sera interpr&eacute;t&eacute; litt&eacute;ralement ou fera &eacute;chouer le pouvoir.<br><br><strong>Jet :&nbsp;</strong>Charisme + Domination contre Intelligence + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :</strong>&nbsp;Seul un mortel pr&eacute;par&eacute; &agrave; r&eacute;sister, un mortel d&eacute;j&agrave; victime de Domination durant la sc&egrave;ne ou un vampire effectue le jet en opposition. Le jet est<br>obligatoire si l&rsquo;ordre va &agrave; l&rsquo;encontre de la nature profonde de la victime.<br><strong>Dur&eacute;e :</strong> Maximum une sc&egrave;ne.</p>",

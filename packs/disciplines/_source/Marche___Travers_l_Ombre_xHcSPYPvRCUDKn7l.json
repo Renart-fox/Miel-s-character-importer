@@ -2,7 +2,7 @@
   "folder": "MapEtZJDzaq0IaIZ",
   "name": "Marche à Travers l'Ombre",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "xHcSPYPvRCUDKn7l",
   "system": {
     "description": "<p>Le vampire dispara&icirc;t dans une ombre pour r&eacute;appara&icirc;tre depuis celle-ci ou une autre plus loin.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;ombre doit &ecirc;tre suffisamment grande pour l&rsquo;accueillir. Le vampire &eacute;merge alors un tour plus tard, depuis une ombre en ligne de vue. Il est possible d&rsquo;effectuer le pouvoir avec un passager, le saisissant s&rsquo;il lutte ; si l&rsquo;utilisateur a subi une Fl&eacute;trissure, le passager en subira une aussi.<br><strong>Dur&eacute;e :&nbsp;</strong>Un tour.</p>",

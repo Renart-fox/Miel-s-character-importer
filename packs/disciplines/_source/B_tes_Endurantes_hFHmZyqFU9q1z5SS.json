@@ -2,7 +2,7 @@
   "folder": "BlhD59oSsIOJyKU3",
   "name": "Bêtes Endurantes",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "hFHmZyqFU9q1z5SS",
   "system": {
     "description": "<p><strong>Pouvoir amalgam&eacute; :</strong>&nbsp;Animalisme 1.<br>Octroie une partie de sa robustesse aux animaux sous son contr&ocirc;le.<br><br><strong>Jet :</strong>&nbsp;Vigueur + Animalisme (difficult&eacute; 3) (automatique pour le famulus).<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation (sauf pour le famulus).<br><strong>Syst&egrave;me :</strong>&nbsp;Augmente de sa Force d&rsquo;&Acirc;me la sant&eacute; d&rsquo;autant d&rsquo;animaux que sa marge de r&eacute;ussite. Quand l&rsquo;effet de dissipe, cela peut causer la mort de l&rsquo;animal.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",

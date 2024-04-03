@@ -2,7 +2,7 @@
   "folder": "gIMKalpOJNNW5mVT",
   "name": "Résilience",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "4J043vYGs2ROGHmP",
   "system": {
     "description": "<p>Dote le vampire d&rsquo;une endurance surnaturelle.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :&nbsp;</strong>Jauge de sant&eacute; augment&eacute;e de la Force d&rsquo;&Acirc;me du personnage.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",

@@ -2,7 +2,7 @@
   "folder": "4hkswSvo4U0S7fXy",
   "name": "Défier les Fléaux",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "u2DfOJMrk0DvLvSw",
   "system": {
     "description": "<p>Permet au vampire de r&eacute;sister aux terribles blessures provoquant normalement la Mort Ultime.<br><br><strong>Jet :&nbsp;</strong>Astuce + Survie (difficult&eacute; 3) (si activ&eacute; en r&eacute;action).<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Peut convertir autant de d&eacute;g&acirc;ts aggrav&eacute;s en superficiels par sc&egrave;ne que sa Force d&rsquo;&Acirc;me. Ne peut pas utiliser r&eacute;g&eacute;n&eacute;ration en m&ecirc;me temps que ce pouvoir. Peut lancer de nouveau le pouvoir d&egrave;s qu&rsquo;il est dissip&eacute;. Si utilis&eacute; en r&eacute;flexe lors de la prise de d&eacute;g&acirc;ts aggrav&eacute;s, le test d&rsquo;Exaltation n&rsquo;est fait que si le jet est r&eacute;ussi.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne ou jusqu&rsquo;&agrave; expiration (la plus courte).</p>",

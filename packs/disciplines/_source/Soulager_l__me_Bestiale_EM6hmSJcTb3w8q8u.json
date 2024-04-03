@@ -2,7 +2,7 @@
   "folder": "O6oIAnWmB50Mqndv",
   "name": "Soulager l'Âme Bestiale",
   "type": "power",
-  "img": "Vampire/Icones/auspex.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/auspex.png",
   "_id": "EM6hmSJcTb3w8q8u",
   "system": {
     "description": "<p><strong>Pouvoir amalgam&eacute; :</strong>&nbsp;Domination 3.<br><strong>Pr&eacute;requis :</strong>&nbsp;Panac&eacute;e.<br>L&rsquo;utilisateur lie son &acirc;me &agrave; celle de la cible, l&rsquo;aidant &agrave; repousser la B&ecirc;te et &agrave; &eacute;prouver du remord.<br><br><strong>Jet :&nbsp;</strong>Sang-froid + Auspex contre Humanit&eacute;.<br><strong>Co&ucirc;t :&nbsp;</strong>Deux tests d&rsquo;Exaltation et 1 Fl&eacute;trissure.<br><strong>Syst&egrave;me :&nbsp;</strong>Doit passer une sc&egrave;ne isol&eacute;e avec la cible. Pour chaque marge, la cible enl&egrave;ve 1 Fl&eacute;trissure ou permet d&rsquo;encaisser la prochaine de la partie. Une victoire critique, la cible peut &agrave; la place acqu&eacute;rir 1 point d&rsquo;Humanit&eacute;, une seule et unique fois de toute sa non-vie. La cible doit &ecirc;tre un vampire avec une Humanit&eacute; inf&eacute;rieure &agrave; celle de l&rsquo;utilisateur. Pour le reste de la partie, tout pouvoir de Domination que l&rsquo;utilisateur utilise<br>sur la cible est une r&eacute;ussite automatique sans n&eacute;cessit&eacute; de contact visuel.<br><strong>Dur&eacute;e :&nbsp;</strong>Une partie.</p>",

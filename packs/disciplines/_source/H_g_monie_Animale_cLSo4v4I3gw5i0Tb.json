@@ -1,7 +1,7 @@
 {
   "name": "Hégémonie Animale",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "cLSo4v4I3gw5i0Tb",
   "system": {
     "description": "<p>Le vampire est capable de manipuler des troupeaux entiers d&rsquo;animaux.<br><br><strong>Jet :</strong> Charisme + Animalisme.<br><strong>Co&ucirc;t : </strong>Deux tests d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong> Le vampire choisit un type de cr&eacute;ature qui doit &ecirc;tre pr&eacute;sente et donne un ordre ; la difficult&eacute; est variable.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne ou jusqu&rsquo;&agrave; fin de l&rsquo;ordre (le plus court des deux).</p>",

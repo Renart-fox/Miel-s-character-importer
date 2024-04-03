@@ -2,7 +2,7 @@
   "folder": "E4aCGHMCcq65HT4N",
   "name": "Sens Accru",
   "type": "power",
-  "img": "Vampire/Icones/auspex.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/auspex.png",
   "_id": "gFGesYkLko2eFRwT",
   "system": {
     "description": "<p>Les sens acqui&egrave;rent une acuit&eacute; incroyable. Voir dans l&rsquo;obscurit&eacute; totale, entendre les ultrasons, sentir la peur d&rsquo;une proie&hellip;<br><br><strong>Jet :</strong>&nbsp;Astuce + R&eacute;solution.<br><strong>Co&ucirc;t :</strong>&nbsp;Gratuit.<br><strong>Syst&egrave;me :</strong>&nbsp;Le Descendant ajoute son niveau d&rsquo;Auspex &agrave; ses Jet de perception. Une charge sensorielle retire 3 d&eacute;s &agrave; tous les Jet pendant une sc&egrave;ne s&rsquo;il &eacute;choue &agrave; Astuce + R&eacute;solution (difficult&eacute; 3).<br><strong>Dur&eacute;e :</strong> Jusqu&rsquo;&agrave; d&eacute;sactivation. Peut n&eacute;cessiter la d&eacute;pense de Volont&eacute; pour maintenir plus d&rsquo;une sc&egrave;ne ou dans un environnement produisant des stimuli intenses.</p>",

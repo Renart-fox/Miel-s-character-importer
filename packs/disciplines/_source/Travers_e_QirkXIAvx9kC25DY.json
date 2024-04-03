@@ -2,7 +2,7 @@
   "folder": "7fUFYZrBWj81nRC1",
   "name": "Traversée",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "QirkXIAvx9kC25DY",
   "system": {
     "description": "<p>Le vampire peut courir sur la mati&egrave;re liquide, une paroi de verre &agrave; la verticale&hellip;<br><br><strong>Jet :</strong>&nbsp;Dext&eacute;rit&eacute; + Athl&eacute;tisme (difficult&eacute; 3 pour une surface inclin&eacute;e &agrave; 6 pour une surface lisse &agrave; la verticale ou sur de l&rsquo;eau).<br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;La marge d&eacute;finit la distance parcourue. Maximum 60m ou 30 &eacute;tages.<br><strong>Dur&eacute;e :&nbsp;</strong>Un tour.</p>",

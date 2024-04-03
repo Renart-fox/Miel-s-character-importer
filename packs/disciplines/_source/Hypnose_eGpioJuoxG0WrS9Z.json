@@ -2,7 +2,7 @@
   "folder": "12pkNywGbvIjIUOX",
   "name": "Hypnose",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "eGpioJuoxG0WrS9Z",
   "system": {
     "description": "<p>Permet de donner des consignes complexes &agrave; la cible, dans un environnement calme, en soutenant son regard. La cible doit &ecirc;tre capable de mener sa mission sans d&eacute;lai et ne peut pas contenir de condition (pas de &laquo; si &raquo;).<br><br><strong>Jet :&nbsp;</strong>Manipulation + domination contre Intelligence + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Seul un mortel pr&eacute;par&eacute; &agrave; r&eacute;sister ou un vampire effectue le jet en opposition. Le jet est obligatoire si l&rsquo;ordre va &agrave; l&rsquo;encontre de la nature profonde de la victime.<br><strong>Dur&eacute;e :&nbsp;</strong>jusqu&rsquo;&agrave; l&rsquo;accomplissement de l&rsquo;ordre ou la fin de la sc&egrave;ne (la plus courte des deux).</p>",

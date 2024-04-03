@@ -2,7 +2,7 @@
   "folder": "7fUFYZrBWj81nRC1",
   "name": "Esquive des Projectiles",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "nf6ovVPQ1D9AwxBD",
   "system": {
     "description": "<p><strong>Pr&eacute;requis :&nbsp;</strong>R&eacute;flexes &Eacute;clairs<br>Un vampire qui poss&egrave;de ce pouvoir se d&eacute;place assez vite pour que les projectiles semblent lents pour lui.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation<br><strong>Syst&egrave;me :&nbsp;</strong>L&rsquo;utilisateur ne perd pas de d&eacute;s en se d&eacute;fendant contre plusieurs attaques &agrave; distance, en utilisant Dext&eacute;rit&eacute; + Athl&eacute;tisme. De plus, il ajoute son score de C&eacute;l&eacute;rit&eacute; &agrave; ce groupement tant que ce pouvoir est actif, m&ecirc;me plusieurs fois par tour.<br><strong>Dur&eacute;e :&nbsp;</strong>Une sc&egrave;ne.</p>",

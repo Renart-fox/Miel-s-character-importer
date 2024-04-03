@@ -2,7 +2,7 @@
   "folder": "6w3csymfXcbhntOu",
   "name": "Peste Nécrotique",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "aHEKyeREuksu00xg",
   "system": {
     "description": "<p>Empoisonne le sang du mortel touch&eacute;, lui infligeant une maladie transmissible &agrave; d&rsquo;autres. Si l&rsquo;utilisateur a des connaissances en m&eacute;decine, il d&eacute;finit les sympt&ocirc;mes.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Intelligence + N&eacute;ant contre Vigueur + Vigueur/Force d&rsquo;&Acirc;me<br><strong>Syst&egrave;me :</strong>&nbsp;Doit toucher la victime. Si celle-ci est faible (b&eacute;b&eacute;, personne &acirc;g&eacute;e, en convalescence, mourante ou avec 3 cases de Sant&eacute; non coch&eacute;e ou moins), la r&eacute;ussite est automatique. Sinon, elle fait le jet de Vigueur en opposition.<br>La victime subit 1 d&eacute;g&acirc;t aggrav&eacute; par sc&egrave;ne suivant l&rsquo;infection, pour autant de sc&egrave;nes que le score de N&eacute;ant. La maladie ne peut &ecirc;tre trait&eacute;e qu&rsquo;en buvant de la vitae. Sur une victoire critique, la maladie peut &ecirc;tre rendue transmissible par simple toucher, mais la nouvelle victime subira les effets pour une sc&egrave;ne de moins que celle qui l&rsquo;a infect&eacute;e. Peut infliger des Fl&eacute;trissures &agrave; l&rsquo;utilisateur.<br><strong>Dur&eacute;e :</strong> Un tour pour l&rsquo;activation, maladie de dur&eacute;e variable.</p>",

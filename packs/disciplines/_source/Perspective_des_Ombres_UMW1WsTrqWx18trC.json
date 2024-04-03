@@ -2,7 +2,7 @@
   "folder": "irchWBi8ZRSnMUxO",
   "name": "Perspective des Ombres",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "UMW1WsTrqWx18trC",
   "system": {
     "description": "<p>Permet de projeter ses sens dans les ombres en ligne de vue, comme si l&rsquo;utilisateur &eacute;tait cach&eacute; dans celles-ci.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;La &laquo; pr&eacute;sence &raquo; du vampire dans les ombres n&rsquo;est d&eacute;tectable que par des moyens surnaturels. Les sens de son propre corps continue de fonctionner.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne ou jusqu&rsquo;&agrave; d&eacute;sactivation (le plus court des deux).</p>",

@@ -2,7 +2,7 @@
   "folder": "gJ2T7lUfHMALi2f6",
   "name": "Douleur Salvatrice",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "wwO0soMvBi4Mp5O8",
   "system": {
     "description": "<p>Pour chaque blessure qu&rsquo;il subit, le vampire devient plus fort et plus rapide.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Ignore les p&eacute;nalit&eacute;s dues aux d&eacute;g&acirc;ts physiques. En outre, il augmente un attribut physique de +1 par d&eacute;g&acirc;t coch&eacute; (sans augmenter les jauges, comme la Sant&eacute;). L&rsquo;utilisateur peut atteindre un maximum de la valeur d&rsquo;un attribut &eacute;gal &agrave; son Coup de Sang + 6.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",

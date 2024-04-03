@@ -2,7 +2,7 @@
   "folder": "iWa91sHcINLMnu9z",
   "name": "Convocation",
   "type": "power",
-  "img": "Vampire/Icones/presence.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/presence.png",
   "_id": "1A8352WHQFmMQ7so",
   "system": {
     "description": "<p>La cible ne peut &ecirc;tre qu&rsquo;une pr&eacute;c&eacute;dente victime de l&rsquo;utilisateur de R&eacute;v&eacute;rence, Envo&ucirc;tement ou Majest&eacute;, ou ayant d&eacute;j&agrave; go&ucirc;t&eacute; son sang. La cible sait qui l&rsquo;appelle et sa localisation exacte. L&rsquo;appel dure une nuit. Elle ne r&eacute;pondra &agrave; l&rsquo;appel que si elle le peut et en a l&rsquo;occasion.<br><br><strong>Jet :&nbsp;</strong>Manipulation + Pr&eacute;sence contre Sang-froid + Intelligence.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong> D&eacute;clencher le pouvoir demande de se concentrer en pensant &agrave; la personne &agrave; convoquer pendant 5 minutes. Sur une victoire critique, la cible accourt le plus vite possible, sans porter atteinte &agrave; son int&eacute;grit&eacute; physique ou morale.<br><strong>Dur&eacute;e :</strong> Une nuit.</p>",

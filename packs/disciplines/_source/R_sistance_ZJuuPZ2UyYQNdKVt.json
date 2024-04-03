@@ -2,7 +2,7 @@
   "folder": "BlhD59oSsIOJyKU3",
   "name": "Résistance",
   "type": "power",
-  "img": "Vampire/Icones/forcedame.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/fortitude.png",
   "_id": "ZJuuPZ2UyYQNdKVt",
   "system": {
     "description": "<p>Augmente la r&eacute;sistance physique de l&rsquo;utilisateur.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Le vampire soustrait sa Force d&rsquo;&Acirc;me &agrave; tous les d&eacute;g&acirc;ts superficiels avant de les diviser par deux, 1 d&eacute;g&acirc;t minimum. Sans effet sur les d&eacute;g&acirc;ts aggrav&eacute;s.<br><strong>Dur&eacute;e :</strong> Une sc&egrave;ne.</p>",

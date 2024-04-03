@@ -2,7 +2,7 @@
   "folder": "xbaxNdpO0x1OnGNV",
   "name": "Injonction Latente",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "Mt6hhSPrarjlZgIy",
   "system": {
     "description": "<p><strong>Pr&eacute;requis :</strong>&nbsp;Hypnose.<br>Am&eacute;liore Hypnose. Il devient alors possible d&rsquo;implanter une consigne post-hypnotique dans la cible. L&rsquo;ordre reste alors tapi jusqu&rsquo;&agrave; l&rsquo;&eacute;l&eacute;ment d&eacute;clencheur (date, personne,<br>phrase, son&hellip;) La consigne ne dispara&icirc;t jamais avant la r&eacute;alisation de l&rsquo;ordre. Un seul ordre par victime.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Pas de co&ucirc;t suppl&eacute;mentaire.<br><strong>Syst&egrave;me :&nbsp;</strong>aucun moyen de savoir si l&rsquo;injonction a &eacute;t&eacute; bien implant&eacute;e avant qu&rsquo;il ne se d&eacute;clenche.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",

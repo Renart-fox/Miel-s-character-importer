@@ -1,7 +1,7 @@
 {
   "name": "Sentir la Bête",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "u7FaWrJkiMVDWo58",
   "system": {
     "description": "<p>Permet de discerner la B&ecirc;te, sa nature, sa faim et son hostilit&eacute;, que ce soit chez les mortels ou autres cr&eacute;atures surnaturelles.<br><br><strong>Jet :</strong> R&eacute;solution + Animalisme contre Sang-froid + Subterfuge<br><strong>Co&ucirc;t : </strong>Gratuit.<br><strong>Syst&egrave;me : </strong>En cas de r&eacute;ussite, d&eacute;termine si la cible est un vampire ou un loup-garou ainsi que le degr&eacute; d&rsquo;agressivit&eacute; de la cible. En cas de victoire critique, le vampire d&eacute;termine pr&eacute;cis&eacute;ment le type de cr&eacute;ature ainsi que sa Soif ou sa Rage. Ce pouvoir s&rsquo;utilise de mani&egrave;re passif, pr&eacute;venant l&rsquo;utilisateur des intentions hostiles de son entourage.<br><strong>Dur&eacute;e :</strong> Passif.</p>",

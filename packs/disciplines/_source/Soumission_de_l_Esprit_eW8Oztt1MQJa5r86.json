@@ -1,7 +1,7 @@
 {
   "name": "Soumission de l’Esprit",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "eW8Oztt1MQJa5r86",
   "system": {
     "description": "<p>Le vampire transfert son esprit dans le corps d&rsquo;un animal, son propre corps sombrant comme en torpeur.<br>Jet : Manipulation + Animalisme (difficult&eacute; 4).<br><br><strong>Co&ucirc;t :</strong> Un test d&rsquo;Exaltation. Gratuit sur le famulus.<br><strong>Syst&egrave;me : </strong>En cas de victoire, la possession dure une sc&egrave;ne. Sur une victoire critique, elle dure ind&eacute;finiment. De jour, la vue du soleil d&eacute;clenche un R&ouml;tschreck. Il perd toute notion de son corps d&rsquo;origine, mais une blessure met fin au pouvoir. La mort de l&rsquo;animal brise aussi le lien et inflige 1 point de d&eacute;g&acirc;t aggrav&eacute; &agrave; la Volont&eacute;.<br><strong>Dur&eacute;e : </strong>une sc&egrave;ne/ind&eacute;finiment.</p>",

@@ -2,7 +2,7 @@
   "folder": "xbaxNdpO0x1OnGNV",
   "name": "Altération Mémorielle",
   "type": "power",
-  "img": "Vampire/Icones/domination.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/domination.png",
   "_id": "1Zck0sZRIikHv80u",
   "system": {
     "description": "<p>Le vampire r&eacute;&eacute;crit des pans entiers de la m&eacute;moire de la cible, temps qu&rsquo;elle soutient son regard et a enti&egrave;rement son attention. Il d&eacute;crit oralement les nouveaux souvenirs. Impossible d&rsquo;explorer la m&eacute;moire de la cible, seulement d&rsquo;&eacute;crire par-dessus.<br><br><strong>Jet :&nbsp;</strong>Manipulation + Domination contre Intelligence + R&eacute;solution.<br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong>&nbsp;Chaque marge permet d&rsquo;ajouter/de remplacer un souvenir. Ceux-ci peuvent sembler excessivement flous si on confronte la cible &agrave; ces souvenirs, sauf avec une victoire critique, cr&eacute;ant ainsi des souvenirs aussi vrais que les autres.<br><strong>Dur&eacute;e :</strong> Permanent.</p>",

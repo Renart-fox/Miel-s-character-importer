@@ -2,7 +2,7 @@
   "folder": "E4aCGHMCcq65HT4N",
   "name": "Sentir l'Invisible",
   "type": "power",
-  "img": "Vampire/Icones/auspex.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/auspex.png",
   "_id": "Z5GFjfy6g8URdO6c",
   "system": {
     "description": "<p>Permet de d&eacute;celer l&rsquo;invisible, comme les sorts d&rsquo;Occultation, les utilisateurs d&rsquo;Auspex ou de Sorcellerie du Sang, les fant&ocirc;mes&hellip;<br><br><strong>Jet :</strong> Astuce + Auspex ou R&eacute;solution + Auspex.<br><strong>Co&ucirc;t :&nbsp;</strong>Gratuit.<br><strong>Syst&egrave;me :</strong>&nbsp;Le jet est effectu&eacute; par le conteur ou par le joueur &agrave; l&rsquo;aveugle dans le cas o&ugrave; le vampire tombe nez &agrave; nez avec un &eacute;l&eacute;ment invisible. Si le Descendant cherche activement quelque chose de dissimul&eacute;, le jet devient R&eacute;solution + Auspex.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",

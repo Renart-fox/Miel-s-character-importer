@@ -2,7 +2,7 @@
   "folder": "iWa91sHcINLMnu9z",
   "name": "Voix Impérieuse",
   "type": "power",
-  "img": "Vampire/Icones/presence.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/presence.png",
   "_id": "QgsB5SAz5PAFSsOu",
   "system": {
     "description": "<p><strong>Pouvoir amalgam&eacute; :&nbsp;</strong>Domination 1.<br>Tous les pouvoirs de Domination peuvent &ecirc;tre utilis&eacute;s &agrave; la seule condition que la cible entende sa voix.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Pas de co&ucirc;t suppl&eacute;mentaire.<br><strong>Syst&egrave;me :</strong>&nbsp;D&eacute;clencher un pouvoir de Domination ne demande que de parler et que la cible entende. La voix ne peut pas passer par voie &eacute;lectronique.<br><strong>Dur&eacute;e :&nbsp;</strong>Passif.</p>",

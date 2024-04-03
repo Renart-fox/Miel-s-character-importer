@@ -2,7 +2,7 @@
   "folder": "5XLLXAea3qrbckon",
   "name": "Nom du Père",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "db471iIsb9D5Qy4e",
   "system": {
     "description": "<p><em>Culte de Shalim, COTBG p94</em><br>Simplement par la voix, embrume l&rsquo;esprit de la cible de<br>t&eacute;n&egrave;bres, voyant une parcelle du N&eacute;ant.<br><br><strong>Pouvoir pr&eacute;requis :</strong>&nbsp;Sombre Vision.<br><strong>Ingr&eacute;dients :&nbsp;</strong>La capacit&eacute; de parler en grec ancien, voir<br>directement les yeux de la victime, quatre b&acirc;tons de<br>charbon.<br><strong>Proc&eacute;d&eacute; :&nbsp;</strong>Faire des incantations en grec, invoquant le<br>nom de Shalim, en broyant un &agrave; un les 4 morceaux de<br>charbon dans la main. La victime doit voir dans les yeux<br>et entendre l&rsquo;utilisateur. Puis, une ombre part des yeux<br>de l&rsquo;utilisateur vers ceux de la victime, les laissant noirs.<br><strong>Syst&egrave;me :&nbsp;</strong>La victime fait un jet en opposition avec<br>R&eacute;solution + Sang-Froid. Si la C&eacute;r&eacute;monie r&eacute;ussit, les<br>effets peuvent &ecirc;tre lanc&eacute;s &agrave; n&rsquo;importe quel moment o&ugrave; le<br>vampire est en pr&eacute;sence de la cible. A l&rsquo;activation, la<br>victime est paralys&eacute;e par le d&eacute;sespoir pour autant de<br>tours que la marge. La cible n&rsquo;a plus aucune sensation,<br>sauf le toucher et la douleur physique, qui annule l&rsquo;effet.<br>D&eacute;penser autant de Volont&eacute; que le nombre de tours<br>restants brise l&rsquo;effet.</p>",

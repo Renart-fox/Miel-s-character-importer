@@ -1,7 +1,7 @@
 {
   "name": "Lâcher la Bête",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "F8KYZ36voXDINw01",
   "system": {
     "description": "<p>Lors d&rsquo;une fr&eacute;n&eacute;sie de terreur ou de rage, le Descendant peut projeter la B&ecirc;te dans une cible, mortelle ou vampire.<br><br><strong>Jet :</strong> Astuce + Animalisme contre Sang-froid + R&eacute;solution.<br><strong>Co&ucirc;t : </strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :</strong> Prend la place du jet de Volont&eacute;. En cas d&rsquo;&eacute;chec, le vampire c&egrave;de &agrave; la fr&eacute;n&eacute;sie. En cas de victoire, la cible c&egrave;de &agrave; la fr&eacute;n&eacute;sie. Inutilisable pour une fr&eacute;n&eacute;sie de Soif.<br><strong>Dur&eacute;e : </strong>Dur&eacute;e de la fr&eacute;n&eacute;sie.</p>",

@@ -2,7 +2,7 @@
   "folder": "tAbhzE1I4NQSqmSM",
   "name": "Breuvage d'Élégance",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "uz7iKfZ4HW6thIE0",
   "system": {
     "description": "<p>Le sang du vampire est charg&eacute; de sa C&eacute;l&eacute;rit&eacute;, donnant une partie de ce pouvoir &agrave; tout buveur.<br><br><strong>Co&ucirc;t :&nbsp;</strong>Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Le buveur gagne la moiti&eacute; de son score de C&eacute;l&eacute;rit&eacute; (&agrave; l&rsquo;inf&eacute;rieur), ainsi que ses pouvoirs non amalgam&eacute;s jusqu&rsquo;au niveau obtenu.<br><strong>Dur&eacute;e :</strong> Une nuit ; jusqu&rsquo;au prochain repas/&agrave; Soif 5 pour un vampire.</p>",

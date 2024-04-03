@@ -2,7 +2,7 @@
   "folder": "1E2E7YkdLhU3GN3h",
   "name": "Faction de Seconde",
   "type": "power",
-  "img": "Vampire/Icones/celerite.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/celerity.png",
   "_id": "xTHtME2Lx1y80WRK",
   "system": {
     "description": "<p>Le vampire peut r&eacute;agir instantan&eacute;ment aux &eacute;v&eacute;nements.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Un test d&rsquo;Exaltation.<br><strong>Syst&egrave;me :&nbsp;</strong>Le joueur peut intervenir pendant les descriptions du conteur en r&eacute;agissant sans d&eacute;lai en faisant une action qui devrait durer quelques secondes normalement. Un jet peut &ecirc;tre n&eacute;cessaire selon l&rsquo;action.<br><strong>Dur&eacute;e :</strong> Environ une action.</p>",

@@ -2,7 +2,7 @@
   "folder": "MapEtZJDzaq0IaIZ",
   "name": "Châtiment de Skuld",
   "type": "power",
-  "img": "Vampire/Icones/obtenebration.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/oblivion.png",
   "_id": "HaNzwvk5GBCHdnZr",
   "system": {
     "description": "<p>Fait r&eacute;appara&icirc;tre d&rsquo;anciennes complications sur la victime, comme une maladie, une fracture ou le vieillissement chez une goule. Ne fonctionne pas sur un vampire.<br><br><strong>Co&ucirc;t :</strong>&nbsp;Deux tests d&rsquo;Exaltation<br><strong>Jet :&nbsp;</strong>Vigueur + N&eacute;ant contre Vigueur + Vigueur/Force d&rsquo;&Acirc;me.<br><strong>Syst&egrave;me :</strong>&nbsp;Impr&egrave;gne ses mains et son visage de sa vitae en pensant au visage de ses cibles. La condition la plus grave que la cible ait connu survient alors soudain. Dans le cas d&rsquo;une goule, toute vitae dispara&icirc;t de son corps. Sur une victoire critique, le c&oelig;ur de la victime peut cesser de battre. Sur un &eacute;chec total, la cible est immunis&eacute;e contre ce pouvoir.<br><strong>Dur&eacute;e :</strong> Selon la condition.</p>",

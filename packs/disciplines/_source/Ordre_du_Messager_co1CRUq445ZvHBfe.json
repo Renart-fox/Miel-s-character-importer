@@ -1,7 +1,7 @@
 {
   "name": "Ordre du Messager",
   "type": "power",
-  "img": "Vampire/Icones/animalisme.png",
+  "img": "modules/miels-character-importer/media/artwork/vtm5e/icons/animalism.png",
   "_id": "co1CRUq445ZvHBfe",
   "system": {
     "description": "<p><strong>Pr&eacute;requis : </strong>Messager Animal et Contrainte ou Hypnose<br><strong>Pouvoir amalgam&eacute; : </strong>Domination 1<br>Le vampire est capable d&rsquo;utiliser Contrainte ou Hypnose avec un ordre transmis par le famulus, en imposant sa volont&eacute; &agrave; la cible du message.<br><br><strong>Co&ucirc;t : </strong>Aucun<br><strong>Jet : </strong>Idem que Contrainte ou Hypnose, mais le score d&rsquo;Animalisme limite celui de Domination.<br><strong>Syst&egrave;me : </strong>Voir Messager Animal. Le jet de Contrainte ou Hypnose a lieu quand le message est d&eacute;livr&eacute;.<br><strong>Dur&eacute;e : </strong>Idem que Messager Animal.</p>",
