@@ -185,7 +185,12 @@ const importVtm5e = async (data) => {
       "displayWhenInactive": true,
       "isActive": false
     }
-    skills[relatedSkill].bonuses.push(newSpec);
+    try {
+      skills[relatedSkill].bonuses.push(newSpec);
+    }
+    catch {
+      ui.notifications.error(`Couldn't add bonus to skill "${relatedSkill}". Does it exist with this name?`);
+    }
   }
 
   for (var discipline of cgObj.disciplines) {
